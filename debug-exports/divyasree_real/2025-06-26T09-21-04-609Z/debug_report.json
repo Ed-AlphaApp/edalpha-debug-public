@@ -1,0 +1,43 @@
+{
+  "exportedAt": "2025-06-26T09:21:04.605Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+    "screen": "412x915",
+    "viewport": "412x915",
+    "online": true,
+    "url": "http://localhost:8080/home",
+    "referrer": "http://localhost:8080/home",
+    "platform": "Win32",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3537c88f-c898-42f0-96bb-54272ae559b0\",\"name\":\"Divya  Sree\",\"age\":43,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"konduridivya62@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"1982-01-02\",\"handle\":\"divyasree_real\",\"created_at\":\"2025-06-24T09:46:00.217571+00:00\",\"updated_at\":\"2025-06-24T09:46:00.217571+00:00\"}",
+    "grade": "7",
+    "schedule_task_times": "{\"subject1\":\"12:25\",\"break\":\"12:56\",\"subject2\":\"13:10\",\"test1\":\"13:40\",\"funzone\":\"14:10\"}",
+    "schedule_subject_selections": "{\"subject1\":\"\",\"subject2\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1750929660866ukgwc92ph",
+      "timestamp": "2025-06-26T09:21:00.866Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 1,
+    "buttonPresses": 0,
+    "actions": 1,
+    "errors": 0,
+    "pages": [
+      "Home"
+    ]
+  }
+}
