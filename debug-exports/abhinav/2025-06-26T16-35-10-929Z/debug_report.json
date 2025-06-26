@@ -1,0 +1,876 @@
+{
+  "exportedAt": "2025-06-26T16:35:10.916Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://edalpha.com/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"6\",\"mobile\":\"7204060048\",\"email\":\"abhinav3601@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"abhinav\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-24T08:41:27.110686+00:00\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"21:48\",\"break\":\"21:49\",\"subject2\":\"21:50\",\"test1\":\"21:51\",\"funzone\":\"21:52\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"a64fef6f-83da-4a8e-9800-80f7bba929af\"}",
+    "recent_lessons": "[{\"id\":\"d67df489-9cf9-402c-9ea0-20ec22189f55\",\"title\":\"Periodic Table\",\"description\":\"Explore the periodic table.\",\"subject_id\":\"67937814-c975-4645-977f-550f89ee5b19\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Evs\",\"savedAt\":\"2025-06-26T16:12:30.452Z\"},{\"id\":\"f53ea31d-ecde-4c11-a044-f4ecb6091604\",\"title\":\"Trigonometry\",\"description\":\"Understanding trigonometric functions and their applications.\",\"subject_id\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-26T16:12:05.575Z\"},{\"id\":\"2e693e20-3976-4900-a167-100650a29ac1\",\"title\":\"Geometry Fundamentals\",\"description\":\"Learn about shapes, angles, and basic geometric concepts.\",\"subject_id\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-26T16:11:56.126Z\"},{\"id\":\"1e80258f-1a09-4774-bb86-0b6edaadeca4\",\"title\":\"Basic Algebra\",\"description\":\"Introduction to algebraic expressions, equations, and problem-solving.\",\"subject_id\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-26T16:11:47.525Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "1750955707060rc9rf0y52",
+      "timestamp": "2025-06-26T16:35:07.060Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17509557070404g4uy1lob",
+      "timestamp": "2025-06-26T16:35:07.040Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17509557070409vwn5kety",
+      "timestamp": "2025-06-26T16:35:07.040Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17509557066450a6klseho",
+      "timestamp": "2025-06-26T16:35:06.645Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750955706623ab4njpnfk",
+      "timestamp": "2025-06-26T16:35:06.623Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750955706623v04idgwzq",
+      "timestamp": "2025-06-26T16:35:06.623Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750955701875uzk95qmpb",
+      "timestamp": "2025-06-26T16:35:01.875Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750955701855tl696174x",
+      "timestamp": "2025-06-26T16:35:01.855Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17509557018551mcxhzz70",
+      "timestamp": "2025-06-26T16:35:01.855Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17509557011210no1arl8x",
+      "timestamp": "2025-06-26T16:35:01.121Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750955701103gq4qzy7j0",
+      "timestamp": "2025-06-26T16:35:01.103Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17509557011038wffwbkzs",
+      "timestamp": "2025-06-26T16:35:01.103Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750955700625fsp0h4nqp",
+      "timestamp": "2025-06-26T16:35:00.625Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17509557006059tnja5zir",
+      "timestamp": "2025-06-26T16:35:00.605Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "175095570060496kfn9cp5",
+      "timestamp": "2025-06-26T16:35:00.604Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750954920524nyuqy01q3",
+      "timestamp": "2025-06-26T16:22:00.524Z",
+      "page": "Learn",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750954920492tidnkbzg8",
+      "timestamp": "2025-06-26T16:22:00.492Z",
+      "page": "Learn",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Funzone - now"
+    },
+    {
+      "id": "175095491263731faazfvn",
+      "timestamp": "2025-06-26T16:21:52.637Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750954912622bag9pk5fb",
+      "timestamp": "2025-06-26T16:21:52.622Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750954912621th333pxt1",
+      "timestamp": "2025-06-26T16:21:52.621Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750954911473g0jrjdz2o",
+      "timestamp": "2025-06-26T16:21:51.473Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750954911460d4gt9kz3v",
+      "timestamp": "2025-06-26T16:21:51.460Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750954911459r2b3mjpdo",
+      "timestamp": "2025-06-26T16:21:51.459Z",
+      "page": "Library",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750954894138mj1fkjvit",
+      "timestamp": "2025-06-26T16:21:34.138Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "path": "/library"
+      }
+    },
+    {
+      "id": "1750954894127rhy6t77d7",
+      "timestamp": "2025-06-26T16:21:34.127Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750954894127sfp6yxq3t",
+      "timestamp": "2025-06-26T16:21:34.127Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Library Navigation",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750954877967ublqxvc6w",
+      "timestamp": "2025-06-26T16:21:17.967Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing simulate_post_creation on Social"
+    },
+    {
+      "id": "1750954860520vvf6l4s84",
+      "timestamp": "2025-06-26T16:21:00.520Z",
+      "page": "Learn",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750954860492q80svv7ru",
+      "timestamp": "2025-06-26T16:21:00.492Z",
+      "page": "Learn",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Test 1 - for 1m"
+    },
+    {
+      "id": "1750954811856k8y8iyr1f",
+      "timestamp": "2025-06-26T16:20:11.856Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750954811840mj8m92eob",
+      "timestamp": "2025-06-26T16:20:11.840Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750954811840pl82wpkjs",
+      "timestamp": "2025-06-26T16:20:11.840Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17509548020835fx7vnryo",
+      "timestamp": "2025-06-26T16:20:02.083Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750954802055ef0gr7ebg",
+      "timestamp": "2025-06-26T16:20:02.055Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750954802055mfxl1m0qt",
+      "timestamp": "2025-06-26T16:20:02.055Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750954801277ixot496ay",
+      "timestamp": "2025-06-26T16:20:01.277Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break animation completed and closed"
+    },
+    {
+      "id": "1750954801277ayin188r8",
+      "timestamp": "2025-06-26T16:20:01.277Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation dismissed by user"
+    },
+    {
+      "id": "1750954801274kzdat5vm2",
+      "timestamp": "2025-06-26T16:20:01.274Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548012702czzxex97",
+      "timestamp": "2025-06-26T16:20:01.270Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801267u6oxuyo6a",
+      "timestamp": "2025-06-26T16:20:01.267Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801263oieglsxm9",
+      "timestamp": "2025-06-26T16:20:01.263Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801254gjqwh4f3b",
+      "timestamp": "2025-06-26T16:20:01.254Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548012510q0fl1gva",
+      "timestamp": "2025-06-26T16:20:01.251Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548012477p9536i26",
+      "timestamp": "2025-06-26T16:20:01.247Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801244zj4rt3cq5",
+      "timestamp": "2025-06-26T16:20:01.244Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801241v7ufqrffx",
+      "timestamp": "2025-06-26T16:20:01.241Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801238fv20h4du4",
+      "timestamp": "2025-06-26T16:20:01.238Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548012359jxvups4s",
+      "timestamp": "2025-06-26T16:20:01.235Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801232k4sbafnuf",
+      "timestamp": "2025-06-26T16:20:01.232Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801225a9rn1o38b",
+      "timestamp": "2025-06-26T16:20:01.225Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801222yyyi9r0fa",
+      "timestamp": "2025-06-26T16:20:01.222Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548012191j6akz8gl",
+      "timestamp": "2025-06-26T16:20:01.219Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801217vs19p7xwg",
+      "timestamp": "2025-06-26T16:20:01.217Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548012149a6xbn2cn",
+      "timestamp": "2025-06-26T16:20:01.214Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801206jlglwyrr0",
+      "timestamp": "2025-06-26T16:20:01.206Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801203u63o24z8u",
+      "timestamp": "2025-06-26T16:20:01.203Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801194r4knea23t",
+      "timestamp": "2025-06-26T16:20:01.194Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801191amo3eozer",
+      "timestamp": "2025-06-26T16:20:01.191Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548011870pwzhr6pp",
+      "timestamp": "2025-06-26T16:20:01.187Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801184g0ugm12u9",
+      "timestamp": "2025-06-26T16:20:01.184Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801179h2sj11zkf",
+      "timestamp": "2025-06-26T16:20:01.179Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548011742gp7jvwj3",
+      "timestamp": "2025-06-26T16:20:01.174Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801167p01yv8hrc",
+      "timestamp": "2025-06-26T16:20:01.167Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801163uvi19wl7c",
+      "timestamp": "2025-06-26T16:20:01.163Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548011619hjud9j5n",
+      "timestamp": "2025-06-26T16:20:01.161Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801157a91zj3vqw",
+      "timestamp": "2025-06-26T16:20:01.157Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801153lqd9ra5tu",
+      "timestamp": "2025-06-26T16:20:01.153Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801149k3uz9qxvw",
+      "timestamp": "2025-06-26T16:20:01.149Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801146nqmeupdvd",
+      "timestamp": "2025-06-26T16:20:01.146Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801144ssfncc5yi",
+      "timestamp": "2025-06-26T16:20:01.144Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548011409vclc3b0v",
+      "timestamp": "2025-06-26T16:20:01.140Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548011379agyk5nqh",
+      "timestamp": "2025-06-26T16:20:01.137Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801133yfcok1h96",
+      "timestamp": "2025-06-26T16:20:01.133Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548011306019xva0b",
+      "timestamp": "2025-06-26T16:20:01.130Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548011242pjavfmnr",
+      "timestamp": "2025-06-26T16:20:01.124Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801121zu2lpusxa",
+      "timestamp": "2025-06-26T16:20:01.121Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801118fq80u72m2",
+      "timestamp": "2025-06-26T16:20:01.118Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801115hb7shi4e7",
+      "timestamp": "2025-06-26T16:20:01.115Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801112slvcp3fsx",
+      "timestamp": "2025-06-26T16:20:01.112Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548011094lv0uj0g7",
+      "timestamp": "2025-06-26T16:20:01.109Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801105fadaisk63",
+      "timestamp": "2025-06-26T16:20:01.105Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801103a6ytiz9rw",
+      "timestamp": "2025-06-26T16:20:01.103Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548010981qmati4dc",
+      "timestamp": "2025-06-26T16:20:01.098Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801094vbmdhbyfj",
+      "timestamp": "2025-06-26T16:20:01.094Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801089qp4bp5p4h",
+      "timestamp": "2025-06-26T16:20:01.089Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801085e7wrq9gcz",
+      "timestamp": "2025-06-26T16:20:01.085Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801082uo468bbaz",
+      "timestamp": "2025-06-26T16:20:01.082Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801080yx881mgi3",
+      "timestamp": "2025-06-26T16:20:01.080Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801077p7vwkjr4g",
+      "timestamp": "2025-06-26T16:20:01.077Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801074v1v36lj3n",
+      "timestamp": "2025-06-26T16:20:01.074Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548010714guols1do",
+      "timestamp": "2025-06-26T16:20:01.071Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548010673iofybh7a",
+      "timestamp": "2025-06-26T16:20:01.067Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801064fo54j01cv",
+      "timestamp": "2025-06-26T16:20:01.064Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801061lyeihp01t",
+      "timestamp": "2025-06-26T16:20:01.062Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801059gimix0i7d",
+      "timestamp": "2025-06-26T16:20:01.059Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509548010579vsbpn1v4",
+      "timestamp": "2025-06-26T16:20:01.057Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801050mcss6r5nk",
+      "timestamp": "2025-06-26T16:20:01.050Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801048wfgtf71yr",
+      "timestamp": "2025-06-26T16:20:01.048Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801043jffiqlkiv",
+      "timestamp": "2025-06-26T16:20:01.043Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750954801039xj2yhz30c",
+      "timestamp": "2025-06-26T16:20:01.039Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 100,
+    "buttonPresses": 10,
+    "actions": 21,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Learn",
+      "Social",
+      "Library"
+    ]
+  }
+}
