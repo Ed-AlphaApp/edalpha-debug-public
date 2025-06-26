@@ -1,0 +1,283 @@
+{
+  "exportedAt": "2025-06-26T16:37:15.234Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "screen": "1366x768",
+    "viewport": "1366x681",
+    "online": true,
+    "url": "http://localhost:8080/social",
+    "referrer": "http://localhost:8080/learn",
+    "platform": "Win32",
+    "isAndroid": false,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"6\",\"mobile\":\"7204060048\",\"email\":\"abhinav3601@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"abhinav\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-24T08:41:27.110686+00:00\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"22:00\",\"break\":\"21:59\",\"subject2\":\"22:02\",\"test1\":\"22:03\",\"funzone\":\"22:04\"}",
+    "schedule_subject_selections": "{\"subject1\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"subject2\":\"41222711-3fba-4190-a620-dd86b0f774a1\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "175095579451828y7ol7uf",
+      "timestamp": "2025-06-26T16:36:34.518Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750955688900rmlvaomg7",
+      "timestamp": "2025-06-26T16:34:48.900Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "17509556850891s73hkoh4",
+      "timestamp": "2025-06-26T16:34:45.089Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_lock_animation on Social"
+    },
+    {
+      "id": "1750955677314j59c20jia",
+      "timestamp": "2025-06-26T16:34:37.314Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750955677241jbn0urxno",
+      "timestamp": "2025-06-26T16:34:37.241Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "17509556772403k50cf1te",
+      "timestamp": "2025-06-26T16:34:37.240Z",
+      "page": "Library",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750955676252j5j6zwns6",
+      "timestamp": "2025-06-26T16:34:36.252Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "path": "/library"
+      }
+    },
+    {
+      "id": "17509556761929qouxuhzk",
+      "timestamp": "2025-06-26T16:34:36.192Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750955676191cuac9m6kg",
+      "timestamp": "2025-06-26T16:34:36.192Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Library Navigation",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750955601479qvzu4qb1c",
+      "timestamp": "2025-06-26T16:33:21.479Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750955581501936p5u1v4",
+      "timestamp": "2025-06-26T16:33:01.501Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "17509555814792p35mfqpf",
+      "timestamp": "2025-06-26T16:33:01.479Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750955581463u2e7nvj17",
+      "timestamp": "2025-06-26T16:33:01.463Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Test 1 - now"
+    },
+    {
+      "id": "1750955580886b61vdhel2",
+      "timestamp": "2025-06-26T16:33:00.886Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750955580885vjdk8h02l",
+      "timestamp": "2025-06-26T16:33:00.885Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Test 1 - now"
+    },
+    {
+      "id": "1750955580265rkaf16ee4",
+      "timestamp": "2025-06-26T16:33:00.265Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750955580263812sl7vxu",
+      "timestamp": "2025-06-26T16:33:00.263Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Test 1 - now"
+    },
+    {
+      "id": "175095552088843m07bxld",
+      "timestamp": "2025-06-26T16:32:00.888Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "17509555208871hnfi8ltz",
+      "timestamp": "2025-06-26T16:32:00.887Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Time to study Subject 2 - for 1m"
+    },
+    {
+      "id": "175095552023183lytx0xc",
+      "timestamp": "2025-06-26T16:32:00.231Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750955520230cdwdz9mr9",
+      "timestamp": "2025-06-26T16:32:00.230Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Time to study Subject 2 - for 1m"
+    },
+    {
+      "id": "1750955502141i4hrh6rpn",
+      "timestamp": "2025-06-26T16:31:42.141Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17509554872344wjmrb2ht",
+      "timestamp": "2025-06-26T16:31:27.234Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17509554826165vy3j4ih2",
+      "timestamp": "2025-06-26T16:31:22.616Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750955456853gsmo601wh",
+      "timestamp": "2025-06-26T16:30:56.853Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "1750955456853rcwxj2oiu",
+      "timestamp": "2025-06-26T16:30:56.853Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "1750955449653h717x0ntg",
+      "timestamp": "2025-06-26T16:30:49.653Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 27,
+    "buttonPresses": 3,
+    "actions": 14,
+    "errors": 0,
+    "pages": [
+      "Social",
+      "Library",
+      "Home"
+    ]
+  }
+}
