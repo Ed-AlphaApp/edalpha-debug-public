@@ -1,0 +1,575 @@
+{
+  "exportedAt": "2025-06-26T15:14:56.788Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+    "screen": "412x915",
+    "viewport": "412x915",
+    "online": true,
+    "url": "http://localhost:8080/home",
+    "referrer": "http://localhost:8080/home",
+    "platform": "Win32",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"6\",\"mobile\":\"7204060048\",\"email\":\"abhinav3601@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"abhinav\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-24T08:41:27.110686+00:00\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"22:25\",\"break\":\"22:30\",\"subject2\":\"22:32\",\"test1\":\"23:00\",\"funzone\":\"20:40\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"67937814-c975-4645-977f-550f89ee5b19\"}",
+    "recent_lessons": "[{\"id\":\"297ffe40-e81e-480a-a294-7450342baf03\",\"title\":\"Types of Matter\",\"description\":\"Learn the basics states of matter\",\"subject_id\":\"67937814-c975-4645-977f-550f89ee5b19\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Evs\",\"savedAt\":\"2025-06-26T15:06:42.311Z\"},{\"id\":\"2e693e20-3976-4900-a167-100650a29ac1\",\"title\":\"Geometry Fundamentals\",\"description\":\"Learn about shapes, angles, and basic geometric concepts.\",\"subject_id\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-26T15:06:35.104Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "17509508869362dctar996",
+      "timestamp": "2025-06-26T15:14:46.936Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_subject1_animation on Home"
+    },
+    {
+      "id": "1750950716057ts3aj8ofm",
+      "timestamp": "2025-06-26T15:11:56.057Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750950715993luumrehor",
+      "timestamp": "2025-06-26T15:11:55.993Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750950715992xwoa3ekk9",
+      "timestamp": "2025-06-26T15:11:55.992Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750950712911kxppv6n2q",
+      "timestamp": "2025-06-26T15:11:52.911Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "17509507128789eir1j1v2",
+      "timestamp": "2025-06-26T15:11:52.878Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750950712878j1sg625sr",
+      "timestamp": "2025-06-26T15:11:52.878Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750950703195t9b3qpzzq",
+      "timestamp": "2025-06-26T15:11:43.195Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750950703148c90c3j7te",
+      "timestamp": "2025-06-26T15:11:43.148Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750950703148lwx6liuwa",
+      "timestamp": "2025-06-26T15:11:43.148Z",
+      "page": "Library",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750950701634ihj5k3vv7",
+      "timestamp": "2025-06-26T15:11:41.634Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "path": "/library"
+      }
+    },
+    {
+      "id": "1750950701596814666zyw",
+      "timestamp": "2025-06-26T15:11:41.596Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750950701595okh69wffq",
+      "timestamp": "2025-06-26T15:11:41.595Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Library Navigation",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750950700233a0ypmrisf",
+      "timestamp": "2025-06-26T15:11:40.233Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750950700199mw93xa58n",
+      "timestamp": "2025-06-26T15:11:40.199Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750950700199hxebhluuc",
+      "timestamp": "2025-06-26T15:11:40.199Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750950699319oj301weax",
+      "timestamp": "2025-06-26T15:11:39.319Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "175095069927133klq23ow",
+      "timestamp": "2025-06-26T15:11:39.271Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750950699270ref0enh2y",
+      "timestamp": "2025-06-26T15:11:39.270Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750950694932z38496pj3",
+      "timestamp": "2025-06-26T15:11:34.932Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750950694852px8pgiq18",
+      "timestamp": "2025-06-26T15:11:34.852Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750950694851wvvizh7eh",
+      "timestamp": "2025-06-26T15:11:34.851Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750950693821r97mvc3au",
+      "timestamp": "2025-06-26T15:11:33.821Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750950693774j7sec4667",
+      "timestamp": "2025-06-26T15:11:33.774Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750950693773r13rkp4wy",
+      "timestamp": "2025-06-26T15:11:33.774Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750950692748xfnf27wvx",
+      "timestamp": "2025-06-26T15:11:32.748Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750950692695atk1n8gy5",
+      "timestamp": "2025-06-26T15:11:32.695Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750950692695ui4uiwcrh",
+      "timestamp": "2025-06-26T15:11:32.695Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750950644341jrt37utpj",
+      "timestamp": "2025-06-26T15:10:44.341Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "1750950639025kt91voa98",
+      "timestamp": "2025-06-26T15:10:39.025Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750950638983bkpgde249",
+      "timestamp": "2025-06-26T15:10:38.983Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750950638983cfd8thmmw",
+      "timestamp": "2025-06-26T15:10:38.983Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17509505690709um00scck",
+      "timestamp": "2025-06-26T15:09:29.070Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "17509505690461eapr7883",
+      "timestamp": "2025-06-26T15:09:29.046Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750950569046fwwhdn6k0",
+      "timestamp": "2025-06-26T15:09:29.046Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750950567203bpxha0whq",
+      "timestamp": "2025-06-26T15:09:27.203Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17509505453863hg5154m3",
+      "timestamp": "2025-06-26T15:09:05.386Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750950545364ljah49ykj",
+      "timestamp": "2025-06-26T15:09:05.364Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750950545364v5309h03l",
+      "timestamp": "2025-06-26T15:09:05.364Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "175095053510006v55b1o0",
+      "timestamp": "2025-06-26T15:08:55.100Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750950531993z9zxjqcb8",
+      "timestamp": "2025-06-26T15:08:51.993Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750950531945cgpzl1co2",
+      "timestamp": "2025-06-26T15:08:51.945Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750950531944a3possd7u",
+      "timestamp": "2025-06-26T15:08:51.944Z",
+      "page": "Library",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "175095052952393it1ax6n",
+      "timestamp": "2025-06-26T15:08:49.523Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "path": "/library"
+      }
+    },
+    {
+      "id": "1750950529500l76fyxd9f",
+      "timestamp": "2025-06-26T15:08:49.500Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "17509505295009gu9n52ng",
+      "timestamp": "2025-06-26T15:08:49.500Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Library Navigation",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1750950527498uj3nqfvm1",
+      "timestamp": "2025-06-26T15:08:47.498Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 47,
+    "buttonPresses": 14,
+    "actions": 33,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Learn",
+      "Social",
+      "Library",
+      "Account Settings"
+    ]
+  }
+}
