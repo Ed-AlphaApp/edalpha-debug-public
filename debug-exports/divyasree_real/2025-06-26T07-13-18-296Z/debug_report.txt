@@ -1,0 +1,126 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/26/2025, 12:43:18 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+Screen Resolution: 412x915
+Viewport Size: 412x915
+Online Status: Online
+Current URL: http://localhost:8080/home
+Platform: Win32
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 13
+Button Presses: 5
+Actions: 8
+Errors: 0
+Pages Visited: Home, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/26/2025, 12:42:55 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+2. ⚡ [ACTION] 06/26/2025, 12:39:21 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Schedule planning overlay closed
+
+3. 🔘 [BUTTON] 06/26/2025, 12:39:21 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Close Schedule Overlay
+
+4. ⚡ [ACTION] 06/26/2025, 12:39:17 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+5. 🔘 [BUTTON] 06/26/2025, 12:39:17 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+6. ⚡ [ACTION] 06/26/2025, 12:39:13 PM
+   Page: Home
+   Feature: SCHEDULE
+   Action: Schedule saved and updated
+   Data: {
+           "taskTimes": {
+             "subject1": "12:25",
+             "break": "12:56",
+             "subject2": "13:10",
+             "test1": "13:40",
+             "funzone": "14:10"
+           }
+         }
+
+7. 🔘 [BUTTON] 06/26/2025, 12:39:13 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Save Schedule
+   Data: {
+           "taskTimes": {
+             "subject1": "12:25",
+             "break": "12:56",
+             "subject2": "13:10",
+             "test1": "13:40",
+             "funzone": "14:10"
+           }
+         }
+
+8. ⚡ [ACTION] 06/26/2025, 12:39:07 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+9. 🔘 [BUTTON] 06/26/2025, 12:39:07 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+10. ⚡ [ACTION] 06/26/2025, 12:38:16 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+11. ⚡ [ACTION] 06/26/2025, 12:38:16 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+12. 🔘 [BUTTON] 06/26/2025, 12:38:16 PM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+13. ⚡ [ACTION] 06/26/2025, 12:38:12 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
