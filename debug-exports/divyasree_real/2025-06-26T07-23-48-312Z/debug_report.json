@@ -1,0 +1,175 @@
+{
+  "exportedAt": "2025-06-26T07:23:48.307Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+    "screen": "412x915",
+    "viewport": "412x915",
+    "online": true,
+    "url": "http://localhost:8080/home",
+    "referrer": "http://localhost:8080/home",
+    "platform": "Win32",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3537c88f-c898-42f0-96bb-54272ae559b0\",\"name\":\"Divya  Sree\",\"age\":43,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"konduridivya62@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"1982-01-02\",\"handle\":\"divyasree_real\",\"created_at\":\"2025-06-24T09:46:00.217571+00:00\",\"updated_at\":\"2025-06-24T09:46:00.217571+00:00\"}",
+    "grade": "7",
+    "schedule_task_times": "{\"subject1\":\"12:25\",\"break\":\"12:56\",\"subject2\":\"13:10\",\"test1\":\"13:40\",\"funzone\":\"14:10\"}",
+    "schedule_subject_selections": "{\"subject1\":\"\",\"subject2\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1750922624762ski2dv8w6",
+      "timestamp": "2025-06-26T07:23:44.762Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "17509226247621m8l0e3qc",
+      "timestamp": "2025-06-26T07:23:44.762Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "175092262089984uexru9h",
+      "timestamp": "2025-06-26T07:23:40.899Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1750922620898ctzmgcyv1",
+      "timestamp": "2025-06-26T07:23:40.898Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "17509226118940yv2ow8m9",
+      "timestamp": "2025-06-26T07:23:31.894Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "1750922611894lyp3tmqwi",
+      "timestamp": "2025-06-26T07:23:31.894Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "17509225750618n4v1veyb",
+      "timestamp": "2025-06-26T07:22:55.061Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1750922575060khdh3tkuz",
+      "timestamp": "2025-06-26T07:22:55.060Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1750922573387wbi8rb3ee",
+      "timestamp": "2025-06-26T07:22:53.387Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "17509225733865hhgkw5ni",
+      "timestamp": "2025-06-26T07:22:53.386Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "1750922570412vqbjml3o5",
+      "timestamp": "2025-06-26T07:22:50.412Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1750922570411alafr85ap",
+      "timestamp": "2025-06-26T07:22:50.411Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1750922569032yw1r98wun",
+      "timestamp": "2025-06-26T07:22:49.032Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17509225689954fa5i7bmw",
+      "timestamp": "2025-06-26T07:22:48.995Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1750922568995byeha9r61",
+      "timestamp": "2025-06-26T07:22:48.995Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "17509225664296lim2xa1m",
+      "timestamp": "2025-06-26T07:22:46.429Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 16,
+    "buttonPresses": 7,
+    "actions": 9,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Account Settings"
+    ]
+  }
+}
