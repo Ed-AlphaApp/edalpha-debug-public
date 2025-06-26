@@ -1,0 +1,204 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/26/2025, 10:07:15 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Screen Resolution: 1366x768
+Viewport Size: 1366x681
+Online Status: Online
+Current URL: http://localhost:8080/social
+Platform: Win32
+Is Android: No
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 27
+Button Presses: 3
+Actions: 14
+Errors: 0
+Pages Visited: Social, Library, Home
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/26/2025, 10:06:34 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+2. ⚡ [ACTION] 06/26/2025, 10:04:48 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+3. ⚡ [ACTION] 06/26/2025, 10:04:45 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_lock_animation on Social
+
+4. ⚡ [ACTION] 06/26/2025, 10:04:37 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+5. ⚡ [ACTION] 06/26/2025, 10:04:37 PM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/library"
+         }
+
+6. 🔘 [BUTTON] 06/26/2025, 10:04:37 PM
+   Page: Library
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/library"
+         }
+
+7. ⚡ [ACTION] 06/26/2025, 10:04:36 PM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "path": "/library"
+         }
+
+8. ⚡ [ACTION] 06/26/2025, 10:04:36 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "destination": "/library",
+           "currentPath": "/home"
+         }
+
+9. 🔘 [BUTTON] 06/26/2025, 10:04:36 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Library Navigation
+   Data: {
+           "destination": "/library",
+           "currentPath": "/home"
+         }
+
+10. ⚡ [ACTION] 06/26/2025, 10:03:21 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+11. 📝 [NOTIFICATIONS] 06/26/2025, 10:03:01 PM
+   Page: Home
+   Feature: Native notification sent successfully
+   Action: undefined
+
+12. ⚡ [ACTION] 06/26/2025, 10:03:01 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+13. 📝 [NOTIFICATIONS] 06/26/2025, 10:03:01 PM
+   Page: Home
+   Feature: Showing notification: Test 1 - now
+   Action: undefined
+
+14. 📝 [NOTIFICATIONS] 06/26/2025, 10:03:00 PM
+   Page: Home
+   Feature: Native notification sent successfully
+   Action: undefined
+
+15. 📝 [NOTIFICATIONS] 06/26/2025, 10:03:00 PM
+   Page: Home
+   Feature: Showing notification: Test 1 - now
+   Action: undefined
+
+16. 📝 [NOTIFICATIONS] 06/26/2025, 10:03:00 PM
+   Page: Home
+   Feature: Native notification sent successfully
+   Action: undefined
+
+17. 📝 [NOTIFICATIONS] 06/26/2025, 10:03:00 PM
+   Page: Home
+   Feature: Showing notification: Test 1 - now
+   Action: undefined
+
+18. 📝 [NOTIFICATIONS] 06/26/2025, 10:02:00 PM
+   Page: Home
+   Feature: Native notification sent successfully
+   Action: undefined
+
+19. 📝 [NOTIFICATIONS] 06/26/2025, 10:02:00 PM
+   Page: Home
+   Feature: Showing notification: Time to study Subject 2 - for 1m
+   Action: undefined
+
+20. 📝 [NOTIFICATIONS] 06/26/2025, 10:02:00 PM
+   Page: Home
+   Feature: Native notification sent successfully
+   Action: undefined
+
+21. 📝 [NOTIFICATIONS] 06/26/2025, 10:02:00 PM
+   Page: Home
+   Feature: Showing notification: Time to study Subject 2 - for 1m
+   Action: undefined
+
+22. ⚡ [ACTION] 06/26/2025, 10:01:42 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+23. ⚡ [ACTION] 06/26/2025, 10:01:27 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+24. ⚡ [ACTION] 06/26/2025, 10:01:22 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+25. ⚡ [ACTION] 06/26/2025, 10:00:56 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Schedule planning overlay closed
+
+26. 🔘 [BUTTON] 06/26/2025, 10:00:56 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Close Schedule Overlay
+
+27. ⚡ [ACTION] 06/26/2025, 10:00:49 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
