@@ -1,0 +1,836 @@
+{
+  "exportedAt": "2025-06-26T11:45:42.008Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"2bcc7405-8fe0-4d7a-9058-6e14bc873a71\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"6\",\"mobile\":\"7204060048\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"brainiac_wizard\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-24T08:41:27.110686+00:00\"}",
+    "grade": null,
+    "schedule_task_times": null,
+    "schedule_subject_selections": null,
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1750938336685f24keuzxj",
+      "timestamp": "2025-06-26T11:45:36.685Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750938336664fxba68wcj",
+      "timestamp": "2025-06-26T11:45:36.664Z",
+      "page": "Menu",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "175093833666413byeqs0y",
+      "timestamp": "2025-06-26T11:45:36.664Z",
+      "page": "Menu",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "1750938336401d6rwt2008",
+      "timestamp": "2025-06-26T11:45:36.401Z",
+      "page": "Menu",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to More",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "1750938336401nt4vnv8ov",
+      "timestamp": "2025-06-26T11:45:36.401Z",
+      "page": "Menu",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: More Navigation",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "1750938335637wcwq86xsg",
+      "timestamp": "2025-06-26T11:45:35.637Z",
+      "page": "Menu",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Menu",
+      "data": {
+        "path": "/menu"
+      }
+    },
+    {
+      "id": "17509383356279j8hmigbq",
+      "timestamp": "2025-06-26T11:45:35.627Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to More",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750938335627vjiyvplj1",
+      "timestamp": "2025-06-26T11:45:35.627Z",
+      "page": "Library",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: More Navigation",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "17509383329965z3l60rfw",
+      "timestamp": "2025-06-26T11:45:32.996Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "path": "/library"
+      }
+    },
+    {
+      "id": "1750938332979dnke028eo",
+      "timestamp": "2025-06-26T11:45:32.979Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750938332978yl62abzdl",
+      "timestamp": "2025-06-26T11:45:32.979Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Library Navigation",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750938332722s2evbbe2i",
+      "timestamp": "2025-06-26T11:45:32.722Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750938332706u8kqd6rn6",
+      "timestamp": "2025-06-26T11:45:32.706Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750938332705wcqzs0ry9",
+      "timestamp": "2025-06-26T11:45:32.705Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750938332479vmghavl5w",
+      "timestamp": "2025-06-26T11:45:32.479Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "17509383324616n4d0tixc",
+      "timestamp": "2025-06-26T11:45:32.461Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750938332461rbw28zfae",
+      "timestamp": "2025-06-26T11:45:32.461Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750938331798lx9q9vzjm",
+      "timestamp": "2025-06-26T11:45:31.798Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750938331770gedzkicxb",
+      "timestamp": "2025-06-26T11:45:31.770Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "175093833177034m333xew",
+      "timestamp": "2025-06-26T11:45:31.770Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750938331041jgc6mxvj5",
+      "timestamp": "2025-06-26T11:45:31.041Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750938331027vbjrglsx6",
+      "timestamp": "2025-06-26T11:45:31.027Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750938331027s7mq317dw",
+      "timestamp": "2025-06-26T11:45:31.027Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750938328174dthw4abbq",
+      "timestamp": "2025-06-26T11:45:28.174Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial closed",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "175093832817350boo7285",
+      "timestamp": "2025-06-26T11:45:28.174Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1750938327730tbn0cng8q",
+      "timestamp": "2025-06-26T11:45:27.731Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1750938327730m783wqes0",
+      "timestamp": "2025-06-26T11:45:27.730Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "17509383270958991ry1ka",
+      "timestamp": "2025-06-26T11:45:27.095Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial closed",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1750938327095xbpjwkffi",
+      "timestamp": "2025-06-26T11:45:27.095Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1750938326489pq2zq5g84",
+      "timestamp": "2025-06-26T11:45:26.489Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "17509383264893y1ctnx6c",
+      "timestamp": "2025-06-26T11:45:26.489Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1750938323465kkdsr36w9",
+      "timestamp": "2025-06-26T11:45:23.465Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750938323447j7x2x6cu0",
+      "timestamp": "2025-06-26T11:45:23.447Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750938323447qbn7n1alr",
+      "timestamp": "2025-06-26T11:45:23.447Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750938318965odjz5xxyw",
+      "timestamp": "2025-06-26T11:45:18.965Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing clear_learn_search on Learn"
+    },
+    {
+      "id": "17509383165525agou3kpo",
+      "timestamp": "2025-06-26T11:45:16.552Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing reset_recent_lessons on Learn"
+    },
+    {
+      "id": "1750938314052mhyd79w0y",
+      "timestamp": "2025-06-26T11:45:14.052Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing simulate_lesson_completion on Learn"
+    },
+    {
+      "id": "1750938309338ly0iy5l24",
+      "timestamp": "2025-06-26T11:45:09.338Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "175093830931610n5mtm9r",
+      "timestamp": "2025-06-26T11:45:09.316Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750938309316ktdoe1k9x",
+      "timestamp": "2025-06-26T11:45:09.316Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750938301765s88vlidb3",
+      "timestamp": "2025-06-26T11:45:01.765Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing reset_progress on Home"
+    },
+    {
+      "id": "1750938296290blw8cvdjj",
+      "timestamp": "2025-06-26T11:44:56.290Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_funzone_animation on Home"
+    },
+    {
+      "id": "1750938289699w3n02hxno",
+      "timestamp": "2025-06-26T11:44:49.699Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_subject1_animation on Home"
+    },
+    {
+      "id": "17509378500188itrfkogy",
+      "timestamp": "2025-06-26T11:37:30.018Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750937849995hd09lzdvu",
+      "timestamp": "2025-06-26T11:37:29.995Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750937849995v0wtv019y",
+      "timestamp": "2025-06-26T11:37:29.995Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750937848855quk3eedfc",
+      "timestamp": "2025-06-26T11:37:28.855Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750937848837sue226pbw",
+      "timestamp": "2025-06-26T11:37:28.837Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750937848837jby7ajvrx",
+      "timestamp": "2025-06-26T11:37:28.837Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750937838581ba2qjqjd3",
+      "timestamp": "2025-06-26T11:37:18.581Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial closed",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1750937838581v4aggebah",
+      "timestamp": "2025-06-26T11:37:18.581Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1750937838087fbyoxq8vn",
+      "timestamp": "2025-06-26T11:37:18.087Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1750937838087seic67m49",
+      "timestamp": "2025-06-26T11:37:18.087Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "17509378375716u5gij98u",
+      "timestamp": "2025-06-26T11:37:17.571Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial closed",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1750937837570aqa5a8dg2",
+      "timestamp": "2025-06-26T11:37:17.570Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1750937836826yobaz05em",
+      "timestamp": "2025-06-26T11:37:16.826Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1750937836826ihcmiosq1",
+      "timestamp": "2025-06-26T11:37:16.826Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "17509378343212v2mr5wic",
+      "timestamp": "2025-06-26T11:37:14.322Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "17509378343087z4xrexpu",
+      "timestamp": "2025-06-26T11:37:14.308Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750937834307dcbxqfsb0",
+      "timestamp": "2025-06-26T11:37:14.307Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750937833542dgu9514q3",
+      "timestamp": "2025-06-26T11:37:13.542Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750937833514f5z1jhrj9",
+      "timestamp": "2025-06-26T11:37:13.514Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "17509378335148v2xfu02t",
+      "timestamp": "2025-06-26T11:37:13.514Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "17509378317007p9dvk0tb",
+      "timestamp": "2025-06-26T11:37:11.700Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750937831678vn4sqqg85",
+      "timestamp": "2025-06-26T11:37:11.678Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750937831678nici2f6vs",
+      "timestamp": "2025-06-26T11:37:11.678Z",
+      "page": "Library",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750937831244gc98r3ccz",
+      "timestamp": "2025-06-26T11:37:11.244Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "path": "/library"
+      }
+    },
+    {
+      "id": "1750937831227fnwtm4h6y",
+      "timestamp": "2025-06-26T11:37:11.227Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17509378312279q5mcgm73",
+      "timestamp": "2025-06-26T11:37:11.227Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Library Navigation",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750937481078k1vwkqxyq",
+      "timestamp": "2025-06-26T11:31:21.078Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 70,
+    "buttonPresses": 24,
+    "actions": 46,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Menu",
+      "Library",
+      "Social",
+      "Learn"
+    ]
+  }
+}
