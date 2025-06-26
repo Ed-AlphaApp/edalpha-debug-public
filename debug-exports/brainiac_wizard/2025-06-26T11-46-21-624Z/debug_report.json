@@ -1,0 +1,43 @@
+{
+  "exportedAt": "2025-06-26T11:46:21.622Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"2bcc7405-8fe0-4d7a-9058-6e14bc873a71\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"6\",\"mobile\":\"7204060048\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"brainiac_wizard\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-24T08:41:27.110686+00:00\"}",
+    "grade": null,
+    "schedule_task_times": null,
+    "schedule_subject_selections": null,
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1750938379299qz0328bs7",
+      "timestamp": "2025-06-26T11:46:19.299Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 1,
+    "buttonPresses": 0,
+    "actions": 1,
+    "errors": 0,
+    "pages": [
+      "Home"
+    ]
+  }
+}
