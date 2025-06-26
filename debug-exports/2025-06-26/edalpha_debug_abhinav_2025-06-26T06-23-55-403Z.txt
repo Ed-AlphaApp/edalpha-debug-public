@@ -1,0 +1,106 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/26/2025, 11:53:55 AM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+Screen Resolution: 412x915
+Viewport Size: 412x915
+Online Status: Online
+Current URL: http://localhost:8080/account-settings
+Platform: Win32
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 11
+Button Presses: 0
+Actions: 5
+Errors: 0
+Pages Visited: Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/26/2025, 11:50:05 AM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
+2. 📝 [NOTIFICATIONS] 06/26/2025, 11:50:00 AM
+   Page: Account Settings
+   Feature: Native notification sent successfully
+   Action: undefined
+
+3. 📝 [NOTIFICATIONS] 06/26/2025, 11:50:00 AM
+   Page: Account Settings
+   Feature: Showing notification: Test 1 - now
+   Action: undefined
+
+4. 📝 [NOTIFICATIONS] 06/26/2025, 11:50:00 AM
+   Page: Account Settings
+   Feature: Native notification sent successfully
+   Action: undefined
+
+5. 📝 [NOTIFICATIONS] 06/26/2025, 11:50:00 AM
+   Page: Account Settings
+   Feature: Showing notification: Test 1 - now
+   Action: undefined
+
+6. 📝 [NOTIFICATIONS] 06/26/2025, 11:50:00 AM
+   Page: Account Settings
+   Feature: Native notification sent successfully
+   Action: undefined
+
+7. 📝 [NOTIFICATIONS] 06/26/2025, 11:50:00 AM
+   Page: Account Settings
+   Feature: Showing notification: Test 1 - now
+   Action: undefined
+
+8. ⚡ [ACTION] 06/26/2025, 11:49:48 AM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
+9. ⚡ [ACTION] 06/26/2025, 11:48:51 AM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
+10. ⚡ [ACTION] 06/26/2025, 11:46:44 AM
+   Page: Account Settings
+   Feature: GITHUB_REPO
+   Action: Files uploaded successfully
+   Data: {
+           "fileUrls": [
+             "https://github.com/Ed-AlphaApp/edalpha-debug-public/blob/main/debug-exports/2025-06-26/edalpha_debug_2025-06-26T06-16-40-737Z.json",
+             "https://github.com/Ed-AlphaApp/edalpha-debug-public/blob/main/debug-exports/2025-06-26/edalpha_debug_2025-06-26T06-16-40-737Z.txt",
+             "https://github.com/Ed-AlphaApp/edalpha-debug-public/blob/main/debug-exports/2025-06-26/README.md"
+           ],
+           "commitUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/2025-06-26",
+           "files": [
+             "edalpha_debug_2025-06-26T06-16-40-737Z.json",
+             "edalpha_debug_2025-06-26T06-16-40-737Z.txt",
+             "README.md"
+           ]
+         }
+
+11. ⚡ [ACTION] 06/26/2025, 11:46:35 AM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
