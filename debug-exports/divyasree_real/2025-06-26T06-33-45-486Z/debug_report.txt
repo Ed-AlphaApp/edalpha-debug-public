@@ -1,0 +1,132 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/26/2025, 12:03:45 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+Screen Resolution: 412x915
+Viewport Size: 412x915
+Online Status: Online
+Current URL: http://localhost:8080/home
+Platform: Win32
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 15
+Button Presses: 5
+Actions: 10
+Errors: 0
+Pages Visited: Home, Learn, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/26/2025, 12:03:42 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+2. ⚡ [ACTION] 06/26/2025, 12:03:42 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+3. 🔘 [BUTTON] 06/26/2025, 12:03:42 PM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+4. ⚡ [ACTION] 06/26/2025, 12:03:41 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+5. ⚡ [ACTION] 06/26/2025, 12:03:40 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+6. 🔘 [BUTTON] 06/26/2025, 12:03:40 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+7. ⚡ [ACTION] 06/26/2025, 12:03:39 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Schedule planning overlay closed
+
+8. 🔘 [BUTTON] 06/26/2025, 12:03:39 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Close Schedule Overlay
+
+9. ⚡ [ACTION] 06/26/2025, 12:03:37 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+10. 🔘 [BUTTON] 06/26/2025, 12:03:37 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+11. ⚡ [ACTION] 06/26/2025, 12:03:37 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+12. 🔘 [BUTTON] 06/26/2025, 12:03:37 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+13. ⚡ [ACTION] 06/26/2025, 12:03:30 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+14. ⚡ [ACTION] 06/26/2025, 12:02:56 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/"
+         }
+
+15. ⚡ [ACTION] 06/26/2025, 12:02:16 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
