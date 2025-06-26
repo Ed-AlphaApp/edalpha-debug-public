@@ -1,0 +1,899 @@
+{
+  "exportedAt": "2025-06-26T07:42:26.203Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+    "screen": "412x915",
+    "viewport": "412x915",
+    "online": true,
+    "url": "http://localhost:8080/home",
+    "referrer": "http://localhost:8080/home",
+    "platform": "Win32",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3537c88f-c898-42f0-96bb-54272ae559b0\",\"name\":\"Divya  Sree\",\"age\":43,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"konduridivya62@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"1982-01-02\",\"handle\":\"divyasree_real\",\"created_at\":\"2025-06-24T09:46:00.217571+00:00\",\"updated_at\":\"2025-06-24T09:46:00.217571+00:00\"}",
+    "grade": "7",
+    "schedule_task_times": "{\"subject1\":\"12:25\",\"break\":\"12:56\",\"subject2\":\"13:10\",\"test1\":\"13:40\",\"funzone\":\"14:10\"}",
+    "schedule_subject_selections": "{\"subject1\":\"\",\"subject2\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "17509237390551i0k1icgu",
+      "timestamp": "2025-06-26T07:42:19.055Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Schedule saved and updated after confirmation",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923739054985yuofq9",
+      "timestamp": "2025-06-26T07:42:19.054Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule Confirmed",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923736084581e4k52c",
+      "timestamp": "2025-06-26T07:42:16.084Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Save schedule confirmation dialog shown",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923736083xs8f736vf",
+      "timestamp": "2025-06-26T07:42:16.083Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule (Show Confirmation)",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923734777iwqrk09pf",
+      "timestamp": "2025-06-26T07:42:14.777Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1750923734777i57l3ccmn",
+      "timestamp": "2025-06-26T07:42:14.777Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1750923665956fu12q5ewl",
+      "timestamp": "2025-06-26T07:41:05.956Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "1750923665954k9eyslflh",
+      "timestamp": "2025-06-26T07:41:05.954Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "1750923663704lzf9g38sn",
+      "timestamp": "2025-06-26T07:41:03.704Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Save schedule confirmation dialog shown",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923663703vvbom3r3y",
+      "timestamp": "2025-06-26T07:41:03.703Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule (Show Confirmation)",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923662003huk6kucii",
+      "timestamp": "2025-06-26T07:41:02.003Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "17509236620027a2bl25iz",
+      "timestamp": "2025-06-26T07:41:02.002Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1750923660288x2a1m9342",
+      "timestamp": "2025-06-26T07:41:00.288Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "1750923660286b00yc3i0d",
+      "timestamp": "2025-06-26T07:41:00.287Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "1750923658152dornmeccz",
+      "timestamp": "2025-06-26T07:40:58.152Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Save schedule confirmation dialog shown",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923658151fao885a9h",
+      "timestamp": "2025-06-26T07:40:58.151Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule (Show Confirmation)",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923654356ntj3rqe70",
+      "timestamp": "2025-06-26T07:40:54.356Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Save schedule confirmation dialog shown",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923654355phvdc7xx2",
+      "timestamp": "2025-06-26T07:40:54.355Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule (Show Confirmation)",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923652709zbx13gd4v",
+      "timestamp": "2025-06-26T07:40:52.709Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "17509236527070iucxqyn2",
+      "timestamp": "2025-06-26T07:40:52.707Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1750923650795iu2mnlg92",
+      "timestamp": "2025-06-26T07:40:50.795Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1750923650794fzfurreb3",
+      "timestamp": "2025-06-26T07:40:50.794Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1750923634423k7bk7rdpw",
+      "timestamp": "2025-06-26T07:40:34.423Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Schedule saved and updated",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923634422ty28top12",
+      "timestamp": "2025-06-26T07:40:34.422Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "17509236328700blvwq4n2",
+      "timestamp": "2025-06-26T07:40:32.870Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "175092363286858fbj1tn2",
+      "timestamp": "2025-06-26T07:40:32.868Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1750923630653kqvge6xoc",
+      "timestamp": "2025-06-26T07:40:30.653Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Schedule saved and updated",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "17509236306527diltjsso",
+      "timestamp": "2025-06-26T07:40:30.652Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:25",
+          "break": "12:56",
+          "subject2": "13:10",
+          "test1": "13:40",
+          "funzone": "14:10"
+        }
+      }
+    },
+    {
+      "id": "1750923629164xy7nab281",
+      "timestamp": "2025-06-26T07:40:29.164Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1750923629163ar7qj66ct",
+      "timestamp": "2025-06-26T07:40:29.163Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "17509236276351j7jmpldi",
+      "timestamp": "2025-06-26T07:40:27.635Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "1750923627634vyy3xau0c",
+      "timestamp": "2025-06-26T07:40:27.634Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "1750923625219ap4snw5q1",
+      "timestamp": "2025-06-26T07:40:25.219Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1750923625218f8d327x7p",
+      "timestamp": "2025-06-26T07:40:25.218Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "17509236176348c2v8ymdv",
+      "timestamp": "2025-06-26T07:40:17.634Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_funzone_animation on Home"
+    },
+    {
+      "id": "1750923614475kra3w29q5",
+      "timestamp": "2025-06-26T07:40:14.475Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing reset_feed_search on Home"
+    },
+    {
+      "id": "1750923613639q1pqn22ow",
+      "timestamp": "2025-06-26T07:40:13.639Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break animation completed and closed"
+    },
+    {
+      "id": "1750923613637y5ad1gr6v",
+      "timestamp": "2025-06-26T07:40:13.637Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation dismissed by user"
+    },
+    {
+      "id": "1750923613614jrp17o6om",
+      "timestamp": "2025-06-26T07:40:13.614Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923613525q1bprck26",
+      "timestamp": "2025-06-26T07:40:13.525Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923613425qhky0womh",
+      "timestamp": "2025-06-26T07:40:13.425Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236133258nir3tz30",
+      "timestamp": "2025-06-26T07:40:13.325Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236132488ljvi76sb",
+      "timestamp": "2025-06-26T07:40:13.248Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923613164qhsc7igsj",
+      "timestamp": "2025-06-26T07:40:13.164Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923613084m86xmr7mt",
+      "timestamp": "2025-06-26T07:40:13.084Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236129740u6pk8gso",
+      "timestamp": "2025-06-26T07:40:12.974Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923612839autrpccwn",
+      "timestamp": "2025-06-26T07:40:12.839Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923612709gyi89tef6",
+      "timestamp": "2025-06-26T07:40:12.709Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236126306knjaechz",
+      "timestamp": "2025-06-26T07:40:12.630Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175092361255271y5nsqnt",
+      "timestamp": "2025-06-26T07:40:12.552Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923612466t47yu889a",
+      "timestamp": "2025-06-26T07:40:12.466Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923612382pkymoo71x",
+      "timestamp": "2025-06-26T07:40:12.382Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923612233e81o7a9b1",
+      "timestamp": "2025-06-26T07:40:12.234Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923612106mvxhwjle2",
+      "timestamp": "2025-06-26T07:40:12.106Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923611964dt05ixcyp",
+      "timestamp": "2025-06-26T07:40:11.964Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923611889gkyhou57v",
+      "timestamp": "2025-06-26T07:40:11.889Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175092361180852muajmy4",
+      "timestamp": "2025-06-26T07:40:11.808Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236117316l9ikvzvz",
+      "timestamp": "2025-06-26T07:40:11.731Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923611641odmu9hb94",
+      "timestamp": "2025-06-26T07:40:11.641Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923611540bhmow7blt",
+      "timestamp": "2025-06-26T07:40:11.540Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923611437zjoxo3ldw",
+      "timestamp": "2025-06-26T07:40:11.437Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923611359s8xi6aval",
+      "timestamp": "2025-06-26T07:40:11.359Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923611277qftqtrfxm",
+      "timestamp": "2025-06-26T07:40:11.277Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236111781isdkfkq7",
+      "timestamp": "2025-06-26T07:40:11.178Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236110315943cyb0i",
+      "timestamp": "2025-06-26T07:40:11.031Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236109059x52wd5k4",
+      "timestamp": "2025-06-26T07:40:10.905Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923610803r8ep0j7uq",
+      "timestamp": "2025-06-26T07:40:10.803Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923610623r29okn727",
+      "timestamp": "2025-06-26T07:40:10.623Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923610505mcvd4nxbl",
+      "timestamp": "2025-06-26T07:40:10.505Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175092361040134u80g8r1",
+      "timestamp": "2025-06-26T07:40:10.401Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923610306ntjt11mgt",
+      "timestamp": "2025-06-26T07:40:10.306Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923610202w6589ylw7",
+      "timestamp": "2025-06-26T07:40:10.202Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923610118tr25lkct7",
+      "timestamp": "2025-06-26T07:40:10.118Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923610018v47v89h1a",
+      "timestamp": "2025-06-26T07:40:10.018Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175092360988720ixafsbb",
+      "timestamp": "2025-06-26T07:40:09.888Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236097851or35vkdi",
+      "timestamp": "2025-06-26T07:40:09.785Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923609671dmh7swalo",
+      "timestamp": "2025-06-26T07:40:09.671Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923609554mkjxp8xa3",
+      "timestamp": "2025-06-26T07:40:09.554Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923609454j9fuqf77q",
+      "timestamp": "2025-06-26T07:40:09.454Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923609345zzr2xaubv",
+      "timestamp": "2025-06-26T07:40:09.345Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923609233z0h8rh4oe",
+      "timestamp": "2025-06-26T07:40:09.233Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923609133gji3pbzyd",
+      "timestamp": "2025-06-26T07:40:09.133Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923609041zl3hyzgyz",
+      "timestamp": "2025-06-26T07:40:09.041Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923608928qbfflsqdo",
+      "timestamp": "2025-06-26T07:40:08.928Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923608846i5hkxjzig",
+      "timestamp": "2025-06-26T07:40:08.846Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923608736ncmii8o4r",
+      "timestamp": "2025-06-26T07:40:08.736Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923608587o3hkogle6",
+      "timestamp": "2025-06-26T07:40:08.587Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923608499q1wbsj4u9",
+      "timestamp": "2025-06-26T07:40:08.499Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509236083526kjp9hpbj",
+      "timestamp": "2025-06-26T07:40:08.352Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923608238n3nr035hf",
+      "timestamp": "2025-06-26T07:40:08.238Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923608140xswoit1hk",
+      "timestamp": "2025-06-26T07:40:08.140Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923607980vqdm39545",
+      "timestamp": "2025-06-26T07:40:07.980Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750923607897qa3vcqozv",
+      "timestamp": "2025-06-26T07:40:07.897Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Debug test break animation triggered"
+    },
+    {
+      "id": "1750923607894dynv5a2ji",
+      "timestamp": "2025-06-26T07:40:07.894Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_break_animation on Home"
+    },
+    {
+      "id": "1750923600366uva11zdfu",
+      "timestamp": "2025-06-26T07:40:00.366Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750923600359aolwv2xdf",
+      "timestamp": "2025-06-26T07:40:00.359Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Time to study Subject 2 - for 30m"
+    },
+    {
+      "id": "1750923345335rzdwexhuw",
+      "timestamp": "2025-06-26T07:35:45.335Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "1750923345334tvvfddjf7",
+      "timestamp": "2025-06-26T07:35:45.334Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "1750923338085dkmexpz4i",
+      "timestamp": "2025-06-26T07:35:38.085Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "17509233380853xnoih1z5",
+      "timestamp": "2025-06-26T07:35:38.085Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 100,
+    "buttonPresses": 19,
+    "actions": 22,
+    "errors": 0,
+    "pages": [
+      "Home"
+    ]
+  }
+}
