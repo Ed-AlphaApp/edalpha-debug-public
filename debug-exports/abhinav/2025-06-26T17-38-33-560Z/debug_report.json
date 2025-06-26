@@ -1,0 +1,982 @@
+{
+  "exportedAt": "2025-06-26T17:38:33.548Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://edalpha.com/learn",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"7\",\"mobile\":\"7204060048\",\"email\":\"abhinav3601@gmail.com\",\"avatar_url\":null,\"grade_id\":\"5ee387e5-f733-4c42-8223-a77ad8eeb2e4\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"abhinav\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-24T08:41:27.110686+00:00\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"23:10\",\"break\":\"23:11\",\"subject2\":\"23:12\",\"test1\":\"23:13\",\"funzone\":\"23:06\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"a64fef6f-83da-4a8e-9800-80f7bba929af\"}",
+    "recent_lessons": "[{\"id\":\"467c8bce-e5ae-4aa0-88b5-ca45f62ec7cb\",\"title\":\"Geometry Fundamentals\",\"description\":\"Learn about shapes, angles, and basic geometric concepts.\",\"subject_id\":\"a32665cd-55b3-4e34-835e-e571dafb0d38\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-26T17:38:21.631Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "1750959507506ut6kk7ga0",
+      "timestamp": "2025-06-26T17:38:27.506Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "17509595066961csoayuvk",
+      "timestamp": "2025-06-26T17:38:26.696Z",
+      "page": "Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38",
+      "data": {
+        "path": "/lessons/5ee387e5-f733-4c42-8223-a77ad8eeb2e4/a32665cd-55b3-4e34-835e-e571dafb0d38"
+      }
+    },
+    {
+      "id": "1750959501657vjhhoy2ge",
+      "timestamp": "2025-06-26T17:38:21.657Z",
+      "page": "Video/467c8bce E5ae-4aa0-88b5-Ca45f62ec7cb",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Video/467c8bce E5ae-4aa0-88b5-Ca45f62ec7cb",
+      "data": {
+        "path": "/video/467c8bce-e5ae-4aa0-88b5-ca45f62ec7cb"
+      }
+    },
+    {
+      "id": "1750959500512y4pszxlpq",
+      "timestamp": "2025-06-26T17:38:20.512Z",
+      "page": "Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38",
+      "data": {
+        "path": "/lessons/5ee387e5-f733-4c42-8223-a77ad8eeb2e4/a32665cd-55b3-4e34-835e-e571dafb0d38"
+      }
+    },
+    {
+      "id": "17509594979067e4rsuzay",
+      "timestamp": "2025-06-26T17:38:17.906Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "17509594764021u6elq04j",
+      "timestamp": "2025-06-26T17:37:56.402Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing force_progress_update on Home"
+    },
+    {
+      "id": "1750959463349h0gftm4gt",
+      "timestamp": "2025-06-26T17:37:43.349Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "PROGRESS_BAR",
+      "action": "Forcing progress bar update"
+    },
+    {
+      "id": "17509594502226e4oji005",
+      "timestamp": "2025-06-26T17:37:30.222Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "TAB_SELECTION",
+      "action": "Changed tab from Computer to Mathematics",
+      "data": {
+        "previousTab": "Computer",
+        "newTab": "Mathematics"
+      }
+    },
+    {
+      "id": "1750959450222po7md6ua7",
+      "timestamp": "2025-06-26T17:37:30.222Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Mathematics Tab",
+      "data": {
+        "previousTab": "Computer",
+        "newTab": "Mathematics"
+      }
+    },
+    {
+      "id": "1750959448491dc4569ll2",
+      "timestamp": "2025-06-26T17:37:28.491Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "TAB_SELECTION",
+      "action": "Changed tab from English to Computer",
+      "data": {
+        "previousTab": "English",
+        "newTab": "Computer"
+      }
+    },
+    {
+      "id": "1750959448490xwp2d4s5s",
+      "timestamp": "2025-06-26T17:37:28.490Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Computer Tab",
+      "data": {
+        "previousTab": "English",
+        "newTab": "Computer"
+      }
+    },
+    {
+      "id": "1750959447139b149wqukz",
+      "timestamp": "2025-06-26T17:37:27.139Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "TAB_SELECTION",
+      "action": "Changed tab from Mathematics to English",
+      "data": {
+        "previousTab": "Mathematics",
+        "newTab": "English"
+      }
+    },
+    {
+      "id": "1750959447138k182a5ck8",
+      "timestamp": "2025-06-26T17:37:27.138Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: English Tab",
+      "data": {
+        "previousTab": "Mathematics",
+        "newTab": "English"
+      }
+    },
+    {
+      "id": "1750959446269wdfe9epuv",
+      "timestamp": "2025-06-26T17:37:26.269Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "TAB_SELECTION",
+      "action": "Changed tab from Chemistry to Mathematics",
+      "data": {
+        "previousTab": "Chemistry",
+        "newTab": "Mathematics"
+      }
+    },
+    {
+      "id": "1750959446269c1gr32x6a",
+      "timestamp": "2025-06-26T17:37:26.269Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Mathematics Tab",
+      "data": {
+        "previousTab": "Chemistry",
+        "newTab": "Mathematics"
+      }
+    },
+    {
+      "id": "17509594450886nl93v9ag",
+      "timestamp": "2025-06-26T17:37:25.088Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "17509594450883evzwzbo2",
+      "timestamp": "2025-06-26T17:37:25.088Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "17509594439479ah1lawo8",
+      "timestamp": "2025-06-26T17:37:23.947Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "TAB_SELECTION",
+      "action": "Changed tab from Feed to Chemistry",
+      "data": {
+        "previousTab": "Feed",
+        "newTab": "Chemistry"
+      }
+    },
+    {
+      "id": "17509594439467drfk2anz",
+      "timestamp": "2025-06-26T17:37:23.946Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Chemistry Tab",
+      "data": {
+        "previousTab": "Feed",
+        "newTab": "Chemistry"
+      }
+    },
+    {
+      "id": "17509594336204daxqo1ik",
+      "timestamp": "2025-06-26T17:37:13.620Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750959433597dgzkt9394",
+      "timestamp": "2025-06-26T17:37:13.597Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750959433597014pvx9da",
+      "timestamp": "2025-06-26T17:37:13.597Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "175095943294361fgmhn0r",
+      "timestamp": "2025-06-26T17:37:12.943Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "17509594329275pg5p00qc",
+      "timestamp": "2025-06-26T17:37:12.927Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750959432926ul1vkb4rm",
+      "timestamp": "2025-06-26T17:37:12.926Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "17509594317003pu8jgtja",
+      "timestamp": "2025-06-26T17:37:11.700Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750959431689rcoq6wkkl",
+      "timestamp": "2025-06-26T17:37:11.689Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750959431688zjycn6mxk",
+      "timestamp": "2025-06-26T17:37:11.688Z",
+      "page": "Library",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "17509594304280c57ps289",
+      "timestamp": "2025-06-26T17:37:10.428Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "path": "/library"
+      }
+    },
+    {
+      "id": "1750959430417br72buen3",
+      "timestamp": "2025-06-26T17:37:10.417Z",
+      "page": "Menu",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "1750959430417aksz920mg",
+      "timestamp": "2025-06-26T17:37:10.417Z",
+      "page": "Menu",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Library Navigation",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "1750959429283vxegkzjcp",
+      "timestamp": "2025-06-26T17:37:09.283Z",
+      "page": "Menu",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to More",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "17509594292836izwgs3ik",
+      "timestamp": "2025-06-26T17:37:09.283Z",
+      "page": "Menu",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: More Navigation",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "1750959428583ktotryb4c",
+      "timestamp": "2025-06-26T17:37:08.583Z",
+      "page": "Menu",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Menu",
+      "data": {
+        "path": "/menu"
+      }
+    },
+    {
+      "id": "1750959428573by20otba4",
+      "timestamp": "2025-06-26T17:37:08.573Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to More",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750959428573uqa02cphz",
+      "timestamp": "2025-06-26T17:37:08.573Z",
+      "page": "Library",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: More Navigation",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/library"
+      }
+    },
+    {
+      "id": "1750959425769v07d6h86j",
+      "timestamp": "2025-06-26T17:37:05.769Z",
+      "page": "Library",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "path": "/library"
+      }
+    },
+    {
+      "id": "1750959425758vd4vegnn3",
+      "timestamp": "2025-06-26T17:37:05.758Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Library",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1750959425758attfef7ud",
+      "timestamp": "2025-06-26T17:37:05.758Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Library Navigation",
+      "data": {
+        "destination": "/library",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "17509594193200annrmmje",
+      "timestamp": "2025-06-26T17:36:59.320Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "1750959417761py9g7498u",
+      "timestamp": "2025-06-26T17:36:57.761Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_lock_animation on Social"
+    },
+    {
+      "id": "1750959414469a51lneoiw",
+      "timestamp": "2025-06-26T17:36:54.469Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "17509594102288kqxup1ap",
+      "timestamp": "2025-06-26T17:36:50.228Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "17509594088406y7ctnxby",
+      "timestamp": "2025-06-26T17:36:48.840Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_lock_animation on Social"
+    },
+    {
+      "id": "1750959406776pqekpb3h2",
+      "timestamp": "2025-06-26T17:36:46.776Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "1750959401977xuxzc68ch",
+      "timestamp": "2025-06-26T17:36:41.977Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "1750959399340iyhugr4pl",
+      "timestamp": "2025-06-26T17:36:39.340Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "17509593993243hpj4lp10",
+      "timestamp": "2025-06-26T17:36:39.324Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750959399324qw4qeqzl6",
+      "timestamp": "2025-06-26T17:36:39.324Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750959398203a3cij2lrs",
+      "timestamp": "2025-06-26T17:36:38.203Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750959398183zx7ffhgaj",
+      "timestamp": "2025-06-26T17:36:38.183Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750959398183rj208lzlw",
+      "timestamp": "2025-06-26T17:36:38.183Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750959394452ocuw57ipw",
+      "timestamp": "2025-06-26T17:36:34.452Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750959393498rtpggz65i",
+      "timestamp": "2025-06-26T17:36:33.498Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "17509593934804zhatpwnk",
+      "timestamp": "2025-06-26T17:36:33.480Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17509593934809e2twn5cz",
+      "timestamp": "2025-06-26T17:36:33.480Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17509593928778zinv8jqk",
+      "timestamp": "2025-06-26T17:36:32.877Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "175095939156586g2v7wj4",
+      "timestamp": "2025-06-26T17:36:31.565Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1750959391539jhwzvdl7u",
+      "timestamp": "2025-06-26T17:36:31.539Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750959391539ia04cz1w8",
+      "timestamp": "2025-06-26T17:36:31.539Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750959387694gt0hflnli",
+      "timestamp": "2025-06-26T17:36:27.694Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_funzone_animation on Home"
+    },
+    {
+      "id": "1750959384690uin4ukfux",
+      "timestamp": "2025-06-26T17:36:24.690Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_subject2_animation on Home"
+    },
+    {
+      "id": "1750959381109z3hiaiqp1",
+      "timestamp": "2025-06-26T17:36:21.109Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_subject1_animation on Home"
+    },
+    {
+      "id": "1750959368984j6wsv6y62",
+      "timestamp": "2025-06-26T17:36:08.984Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing 1min_schedule on Home"
+    },
+    {
+      "id": "1750959359129eebgojvle",
+      "timestamp": "2025-06-26T17:35:59.129Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing 1min_schedule on Home"
+    },
+    {
+      "id": "1750959355289cx3g0956n",
+      "timestamp": "2025-06-26T17:35:55.289Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break animation completed and closed"
+    },
+    {
+      "id": "17509593552891bvu7t564",
+      "timestamp": "2025-06-26T17:35:55.289Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation dismissed by user"
+    },
+    {
+      "id": "1750959355285ijsfxarp8",
+      "timestamp": "2025-06-26T17:35:55.285Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355282lch92gzod",
+      "timestamp": "2025-06-26T17:35:55.282Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355275wptd2k2e6",
+      "timestamp": "2025-06-26T17:35:55.276Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355273p4cl5yrq8",
+      "timestamp": "2025-06-26T17:35:55.273Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593552709r0ngxqjx",
+      "timestamp": "2025-06-26T17:35:55.270Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355267phuzhntr1",
+      "timestamp": "2025-06-26T17:35:55.267Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593552592no8walnw",
+      "timestamp": "2025-06-26T17:35:55.259Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355256in7okdjyk",
+      "timestamp": "2025-06-26T17:35:55.256Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355252o4jamoebz",
+      "timestamp": "2025-06-26T17:35:55.252Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593552470p3olj6g1",
+      "timestamp": "2025-06-26T17:35:55.247Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355242zdw5mhxne",
+      "timestamp": "2025-06-26T17:35:55.242Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355240h3aesbuoi",
+      "timestamp": "2025-06-26T17:35:55.240Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593552377ac4btm32",
+      "timestamp": "2025-06-26T17:35:55.237Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355234anhrex8dm",
+      "timestamp": "2025-06-26T17:35:55.234Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593552295sbaeprxg",
+      "timestamp": "2025-06-26T17:35:55.229Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593552264xyn36cdn",
+      "timestamp": "2025-06-26T17:35:55.226Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355224j499rjqet",
+      "timestamp": "2025-06-26T17:35:55.224Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355220dzzrjxfp8",
+      "timestamp": "2025-06-26T17:35:55.220Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355217hmmdjnc9b",
+      "timestamp": "2025-06-26T17:35:55.217Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355212czjeqg7a7",
+      "timestamp": "2025-06-26T17:35:55.212Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355210mm7x7cmtd",
+      "timestamp": "2025-06-26T17:35:55.210Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355207e46aij477",
+      "timestamp": "2025-06-26T17:35:55.207Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355204wsburjirb",
+      "timestamp": "2025-06-26T17:35:55.205Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593552021sv5ntjoy",
+      "timestamp": "2025-06-26T17:35:55.202Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355196v50wn5jzs",
+      "timestamp": "2025-06-26T17:35:55.196Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355194x3q66bmop",
+      "timestamp": "2025-06-26T17:35:55.194Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593551918m699vpju",
+      "timestamp": "2025-06-26T17:35:55.191Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593551886kvcf3cip",
+      "timestamp": "2025-06-26T17:35:55.188Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355185hyy62gtj0",
+      "timestamp": "2025-06-26T17:35:55.185Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355182pjkq9l8zb",
+      "timestamp": "2025-06-26T17:35:55.182Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355177t6k0l93bz",
+      "timestamp": "2025-06-26T17:35:55.177Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1750959355174071id3ucn",
+      "timestamp": "2025-06-26T17:35:55.174Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17509593551714afermrb2",
+      "timestamp": "2025-06-26T17:35:55.171Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 100,
+    "buttonPresses": 17,
+    "actions": 48,
+    "errors": 0,
+    "pages": [
+      "Learn",
+      "Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38",
+      "Video/467c8bce E5ae-4aa0-88b5-Ca45f62ec7cb",
+      "Home",
+      "Social",
+      "Library",
+      "Menu"
+    ]
+  }
+}
