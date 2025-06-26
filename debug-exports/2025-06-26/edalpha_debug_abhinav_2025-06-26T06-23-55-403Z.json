@@ -1,0 +1,139 @@
+{
+  "exportedAt": "2025-06-26T06:23:55.398Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36",
+    "screen": "412x915",
+    "viewport": "412x915",
+    "online": true,
+    "url": "http://localhost:8080/account-settings",
+    "referrer": "http://localhost:8080/account-settings",
+    "platform": "Win32",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"7\",\"mobile\":\"7204060048\",\"email\":\"abhinav3601@gmail.com\",\"avatar_url\":null,\"grade_id\":\"5ee387e5-f733-4c42-8223-a77ad8eeb2e4\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"abhinav\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-24T08:41:27.110686+00:00\"}",
+    "grade": "7",
+    "schedule_task_times": "{\"subject1\":\"10:35\",\"break\":\"11:05\",\"subject2\":\"11:20\",\"test1\":\"11:50\",\"funzone\":\"11:31\"}",
+    "schedule_subject_selections": "{\"subject1\":\"\",\"subject2\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1750918805717p56p661u0",
+      "timestamp": "2025-06-26T06:20:05.717Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    },
+    {
+      "id": "1750918800294g8ksjo5li",
+      "timestamp": "2025-06-26T06:20:00.294Z",
+      "page": "Account Settings",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750918800286xd5cj74iq",
+      "timestamp": "2025-06-26T06:20:00.286Z",
+      "page": "Account Settings",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Test 1 - now"
+    },
+    {
+      "id": "1750918800182v6bj6ef4k",
+      "timestamp": "2025-06-26T06:20:00.183Z",
+      "page": "Account Settings",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750918800173u4lhesofw",
+      "timestamp": "2025-06-26T06:20:00.173Z",
+      "page": "Account Settings",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Test 1 - now"
+    },
+    {
+      "id": "1750918800114ao07n4n0z",
+      "timestamp": "2025-06-26T06:20:00.114Z",
+      "page": "Account Settings",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750918800108qowojcm8s",
+      "timestamp": "2025-06-26T06:20:00.108Z",
+      "page": "Account Settings",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Test 1 - now"
+    },
+    {
+      "id": "1750918788565bbleq4yh3",
+      "timestamp": "2025-06-26T06:19:48.565Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    },
+    {
+      "id": "17509187311816awwp2j9o",
+      "timestamp": "2025-06-26T06:18:51.182Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    },
+    {
+      "id": "1750918604029u84h74em7",
+      "timestamp": "2025-06-26T06:16:44.029Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "GITHUB_REPO",
+      "action": "Files uploaded successfully",
+      "data": {
+        "fileUrls": [
+          "https://github.com/Ed-AlphaApp/edalpha-debug-public/blob/main/debug-exports/2025-06-26/edalpha_debug_2025-06-26T06-16-40-737Z.json",
+          "https://github.com/Ed-AlphaApp/edalpha-debug-public/blob/main/debug-exports/2025-06-26/edalpha_debug_2025-06-26T06-16-40-737Z.txt",
+          "https://github.com/Ed-AlphaApp/edalpha-debug-public/blob/main/debug-exports/2025-06-26/README.md"
+        ],
+        "commitUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/2025-06-26",
+        "files": [
+          "edalpha_debug_2025-06-26T06-16-40-737Z.json",
+          "edalpha_debug_2025-06-26T06-16-40-737Z.txt",
+          "README.md"
+        ]
+      }
+    },
+    {
+      "id": "1750918595826yndvr292p",
+      "timestamp": "2025-06-26T06:16:35.826Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 11,
+    "buttonPresses": 0,
+    "actions": 5,
+    "errors": 0,
+    "pages": [
+      "Account Settings"
+    ]
+  }
+}
