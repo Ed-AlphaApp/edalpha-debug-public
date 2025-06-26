@@ -1,0 +1,705 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/26/2025, 11:08:33 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://edalpha.com/learn
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 100
+Button Presses: 17
+Actions: 48
+Errors: 0
+Pages Visited: Learn, Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38, Video/467c8bce E5ae-4aa0-88b5-Ca45f62ec7cb, Home, Social, Library, Menu
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/26/2025, 11:08:27 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+2. ⚡ [ACTION] 06/26/2025, 11:08:26 PM
+   Page: Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38
+   Feature: NAVIGATION
+   Action: Navigated to Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38
+   Data: {
+           "path": "/lessons/5ee387e5-f733-4c42-8223-a77ad8eeb2e4/a32665cd-55b3-4e34-835e-e571dafb0d38"
+         }
+
+3. ⚡ [ACTION] 06/26/2025, 11:08:21 PM
+   Page: Video/467c8bce E5ae-4aa0-88b5-Ca45f62ec7cb
+   Feature: NAVIGATION
+   Action: Navigated to Video/467c8bce E5ae-4aa0-88b5-Ca45f62ec7cb
+   Data: {
+           "path": "/video/467c8bce-e5ae-4aa0-88b5-ca45f62ec7cb"
+         }
+
+4. ⚡ [ACTION] 06/26/2025, 11:08:20 PM
+   Page: Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38
+   Feature: NAVIGATION
+   Action: Navigated to Lessons/5ee387e5 F733-4c42-8223-A77ad8eeb2e4/A32665cd-55b3-4e34-835e-E571dafb0d38
+   Data: {
+           "path": "/lessons/5ee387e5-f733-4c42-8223-a77ad8eeb2e4/a32665cd-55b3-4e34-835e-e571dafb0d38"
+         }
+
+5. ⚡ [ACTION] 06/26/2025, 11:08:17 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+6. ⚡ [ACTION] 06/26/2025, 11:07:56 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing force_progress_update on Home
+
+7. ⚡ [ACTION] 06/26/2025, 11:07:43 PM
+   Page: Home
+   Feature: PROGRESS_BAR
+   Action: Forcing progress bar update
+
+8. ⚡ [ACTION] 06/26/2025, 11:07:30 PM
+   Page: Home
+   Feature: TAB_SELECTION
+   Action: Changed tab from Computer to Mathematics
+   Data: {
+           "previousTab": "Computer",
+           "newTab": "Mathematics"
+         }
+
+9. 🔘 [BUTTON] 06/26/2025, 11:07:30 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Mathematics Tab
+   Data: {
+           "previousTab": "Computer",
+           "newTab": "Mathematics"
+         }
+
+10. ⚡ [ACTION] 06/26/2025, 11:07:28 PM
+   Page: Home
+   Feature: TAB_SELECTION
+   Action: Changed tab from English to Computer
+   Data: {
+           "previousTab": "English",
+           "newTab": "Computer"
+         }
+
+11. 🔘 [BUTTON] 06/26/2025, 11:07:28 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Computer Tab
+   Data: {
+           "previousTab": "English",
+           "newTab": "Computer"
+         }
+
+12. ⚡ [ACTION] 06/26/2025, 11:07:27 PM
+   Page: Home
+   Feature: TAB_SELECTION
+   Action: Changed tab from Mathematics to English
+   Data: {
+           "previousTab": "Mathematics",
+           "newTab": "English"
+         }
+
+13. 🔘 [BUTTON] 06/26/2025, 11:07:27 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: English Tab
+   Data: {
+           "previousTab": "Mathematics",
+           "newTab": "English"
+         }
+
+14. ⚡ [ACTION] 06/26/2025, 11:07:26 PM
+   Page: Home
+   Feature: TAB_SELECTION
+   Action: Changed tab from Chemistry to Mathematics
+   Data: {
+           "previousTab": "Chemistry",
+           "newTab": "Mathematics"
+         }
+
+15. 🔘 [BUTTON] 06/26/2025, 11:07:26 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Mathematics Tab
+   Data: {
+           "previousTab": "Chemistry",
+           "newTab": "Mathematics"
+         }
+
+16. ⚡ [ACTION] 06/26/2025, 11:07:25 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+17. 🔘 [BUTTON] 06/26/2025, 11:07:25 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+18. ⚡ [ACTION] 06/26/2025, 11:07:23 PM
+   Page: Home
+   Feature: TAB_SELECTION
+   Action: Changed tab from Feed to Chemistry
+   Data: {
+           "previousTab": "Feed",
+           "newTab": "Chemistry"
+         }
+
+19. 🔘 [BUTTON] 06/26/2025, 11:07:23 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Chemistry Tab
+   Data: {
+           "previousTab": "Feed",
+           "newTab": "Chemistry"
+         }
+
+20. ⚡ [ACTION] 06/26/2025, 11:07:13 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+21. ⚡ [ACTION] 06/26/2025, 11:07:13 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+22. 🔘 [BUTTON] 06/26/2025, 11:07:13 PM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+23. ⚡ [ACTION] 06/26/2025, 11:07:12 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+24. ⚡ [ACTION] 06/26/2025, 11:07:12 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+25. 🔘 [BUTTON] 06/26/2025, 11:07:12 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+26. ⚡ [ACTION] 06/26/2025, 11:07:11 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+27. ⚡ [ACTION] 06/26/2025, 11:07:11 PM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/library"
+         }
+
+28. 🔘 [BUTTON] 06/26/2025, 11:07:11 PM
+   Page: Library
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/library"
+         }
+
+29. ⚡ [ACTION] 06/26/2025, 11:07:10 PM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "path": "/library"
+         }
+
+30. ⚡ [ACTION] 06/26/2025, 11:07:10 PM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "destination": "/library",
+           "currentPath": "/menu"
+         }
+
+31. 🔘 [BUTTON] 06/26/2025, 11:07:10 PM
+   Page: Menu
+   Feature: Navigation
+   Action: Button pressed: Library Navigation
+   Data: {
+           "destination": "/library",
+           "currentPath": "/menu"
+         }
+
+32. ⚡ [ACTION] 06/26/2025, 11:07:09 PM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to More
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/menu"
+         }
+
+33. 🔘 [BUTTON] 06/26/2025, 11:07:09 PM
+   Page: Menu
+   Feature: Navigation
+   Action: Button pressed: More Navigation
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/menu"
+         }
+
+34. ⚡ [ACTION] 06/26/2025, 11:07:08 PM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to Menu
+   Data: {
+           "path": "/menu"
+         }
+
+35. ⚡ [ACTION] 06/26/2025, 11:07:08 PM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to More
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/library"
+         }
+
+36. 🔘 [BUTTON] 06/26/2025, 11:07:08 PM
+   Page: Library
+   Feature: Navigation
+   Action: Button pressed: More Navigation
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/library"
+         }
+
+37. ⚡ [ACTION] 06/26/2025, 11:07:05 PM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "path": "/library"
+         }
+
+38. ⚡ [ACTION] 06/26/2025, 11:07:05 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "destination": "/library",
+           "currentPath": "/social"
+         }
+
+39. 🔘 [BUTTON] 06/26/2025, 11:07:05 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Library Navigation
+   Data: {
+           "destination": "/library",
+           "currentPath": "/social"
+         }
+
+40. ⚡ [ACTION] 06/26/2025, 11:06:59 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+41. ⚡ [ACTION] 06/26/2025, 11:06:57 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_lock_animation on Social
+
+42. ⚡ [ACTION] 06/26/2025, 11:06:54 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+43. ⚡ [ACTION] 06/26/2025, 11:06:50 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+44. ⚡ [ACTION] 06/26/2025, 11:06:48 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_lock_animation on Social
+
+45. ⚡ [ACTION] 06/26/2025, 11:06:46 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+46. ⚡ [ACTION] 06/26/2025, 11:06:41 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+47. ⚡ [ACTION] 06/26/2025, 11:06:39 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+48. ⚡ [ACTION] 06/26/2025, 11:06:39 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+49. 🔘 [BUTTON] 06/26/2025, 11:06:39 PM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+50. ⚡ [ACTION] 06/26/2025, 11:06:38 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+51. ⚡ [ACTION] 06/26/2025, 11:06:38 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+52. 🔘 [BUTTON] 06/26/2025, 11:06:38 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+53. ⚡ [ACTION] 06/26/2025, 11:06:34 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+54. ⚡ [ACTION] 06/26/2025, 11:06:33 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+55. ⚡ [ACTION] 06/26/2025, 11:06:33 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+56. 🔘 [BUTTON] 06/26/2025, 11:06:33 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+57. ⚡ [ACTION] 06/26/2025, 11:06:32 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+58. ⚡ [ACTION] 06/26/2025, 11:06:31 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+59. ⚡ [ACTION] 06/26/2025, 11:06:31 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+60. 🔘 [BUTTON] 06/26/2025, 11:06:31 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+61. ⚡ [ACTION] 06/26/2025, 11:06:27 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing play_funzone_animation on Home
+
+62. ⚡ [ACTION] 06/26/2025, 11:06:24 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing play_subject2_animation on Home
+
+63. ⚡ [ACTION] 06/26/2025, 11:06:21 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing play_subject1_animation on Home
+
+64. ⚡ [ACTION] 06/26/2025, 11:06:08 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing 1min_schedule on Home
+
+65. ⚡ [ACTION] 06/26/2025, 11:05:59 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing 1min_schedule on Home
+
+66. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break animation completed and closed
+   Action: undefined
+
+67. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation dismissed by user
+   Action: undefined
+
+68. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+69. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+70. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+71. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+72. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+73. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+74. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+75. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+76. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+77. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+78. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+79. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+80. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+81. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+82. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+83. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+84. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+85. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+86. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+87. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+88. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+89. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+90. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+91. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+92. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+93. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+94. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+95. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+96. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+97. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+98. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+99. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+100. 📝 [BREAK_ANIMATION] 06/26/2025, 11:05:55 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
