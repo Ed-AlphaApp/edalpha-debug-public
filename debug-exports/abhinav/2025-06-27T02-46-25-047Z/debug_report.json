@@ -1,0 +1,269 @@
+{
+  "exportedAt": "2025-06-27T02:46:25.045Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://edalpha.com/social",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"7\",\"mobile\":\"7204060048\",\"email\":\"abhinav3601@gmail.com\",\"avatar_url\":null,\"grade_id\":\"5ee387e5-f733-4c42-8223-a77ad8eeb2e4\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"abhinav\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-24T08:41:27.110686+00:00\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"23:10\",\"break\":\"23:11\",\"subject2\":\"23:12\",\"test1\":\"23:13\",\"funzone\":\"08:16\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"a64fef6f-83da-4a8e-9800-80f7bba929af\"}",
+    "recent_lessons": "[{\"id\":\"b1708249-b61d-49da-8b3b-9dea2f41f94e\",\"title\":\"Introduction to Chemistry\",\"description\":\"Learn the basics of chemistry.\",\"subject_id\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Chemistry\",\"savedAt\":\"2025-06-27T02:43:07.189Z\"},{\"id\":\"c197465a-99da-44ee-80de-e011073f30d9\",\"title\":\"Trigonometry\",\"description\":\"Understanding trigonometric functions and their applications.\",\"subject_id\":\"a32665cd-55b3-4e34-835e-e571dafb0d38\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-27T02:43:00.284Z\"},{\"id\":\"467c8bce-e5ae-4aa0-88b5-ca45f62ec7cb\",\"title\":\"Geometry Fundamentals\",\"description\":\"Learn about shapes, angles, and basic geometric concepts.\",\"subject_id\":\"a32665cd-55b3-4e34-835e-e571dafb0d38\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-26T17:38:21.631Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "1750992372174qa01p77sw",
+      "timestamp": "2025-06-27T02:46:12.174Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "1750992360063brheq5twb",
+      "timestamp": "2025-06-27T02:46:00.063Z",
+      "page": "Social",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1750992360031ezo1ncv3u",
+      "timestamp": "2025-06-27T02:46:00.031Z",
+      "page": "Social",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Funzone - for 14h 54m"
+    },
+    {
+      "id": "1750992338019p1gbbwkyi",
+      "timestamp": "2025-06-27T02:45:38.019Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_lock_animation on Social"
+    },
+    {
+      "id": "1750992333884ulg9gfxro",
+      "timestamp": "2025-06-27T02:45:33.884Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "175099233387072frpp0a5",
+      "timestamp": "2025-06-27T02:45:33.870Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750992333869eb4filj5l",
+      "timestamp": "2025-06-27T02:45:33.869Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750992332783onoiaecn6",
+      "timestamp": "2025-06-27T02:45:32.783Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750992332770eybdgh2ge",
+      "timestamp": "2025-06-27T02:45:32.770Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750992332770sd4ujustp",
+      "timestamp": "2025-06-27T02:45:32.770Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750992331472azeu4ngc9",
+      "timestamp": "2025-06-27T02:45:31.472Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750992331454ub97o8sjh",
+      "timestamp": "2025-06-27T02:45:31.454Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750992331454s0wyxagxz",
+      "timestamp": "2025-06-27T02:45:31.454Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1750992330724tvjj8wrbd",
+      "timestamp": "2025-06-27T02:45:30.724Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1750992330709ffghjpb4w",
+      "timestamp": "2025-06-27T02:45:30.709Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750992330709yqj6tjssi",
+      "timestamp": "2025-06-27T02:45:30.709Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1750992328742jw2knsp8q",
+      "timestamp": "2025-06-27T02:45:28.742Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1750992328726cuvxgzzkl",
+      "timestamp": "2025-06-27T02:45:28.726Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1750992328726ci2y6twjq",
+      "timestamp": "2025-06-27T02:45:28.726Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1750992324913ailo26kn2",
+      "timestamp": "2025-06-27T02:45:24.913Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    },
+    {
+      "id": "1750992259640nj8flhyc1",
+      "timestamp": "2025-06-27T02:44:19.640Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "GITHUB_REPO",
+      "action": "Upload successful",
+      "data": {
+        "files": [
+          "debug-exports/abhinav/2025-06-27T02-44-13-680Z/debug_report.json",
+          "debug-exports/abhinav/2025-06-27T02-44-13-680Z/debug_report.txt",
+          "debug-exports/abhinav/2025-06-27T02-44-13-680Z/README.md",
+          "debug-exports/abhinav/user_summary.md"
+        ],
+        "commitUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinav/2025-06-27T02-44-13-680Z",
+        "userUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinav"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 21,
+    "buttonPresses": 5,
+    "actions": 14,
+    "errors": 0,
+    "pages": [
+      "Social",
+      "Learn",
+      "Home",
+      "Account Settings"
+    ]
+  }
+}
