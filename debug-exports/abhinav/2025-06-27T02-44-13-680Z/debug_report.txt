@@ -1,0 +1,446 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/27/2025, 08:14:13 AM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://edalpha.com/home
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 51
+Button Presses: 18
+Actions: 33
+Errors: 0
+Pages Visited: Home, Menu, Library, Social, Learn
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/27/2025, 08:14:02 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+2. ⚡ [ACTION] 06/27/2025, 08:14:02 AM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/menu"
+         }
+
+3. 🔘 [BUTTON] 06/27/2025, 08:14:02 AM
+   Page: Menu
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/menu"
+         }
+
+4. ⚡ [ACTION] 06/27/2025, 08:14:01 AM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to Menu
+   Data: {
+           "path": "/menu"
+         }
+
+5. ⚡ [ACTION] 06/27/2025, 08:14:01 AM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to More
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/library"
+         }
+
+6. 🔘 [BUTTON] 06/27/2025, 08:14:01 AM
+   Page: Library
+   Feature: Navigation
+   Action: Button pressed: More Navigation
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/library"
+         }
+
+7. ⚡ [ACTION] 06/27/2025, 08:14:01 AM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "path": "/library"
+         }
+
+8. ⚡ [ACTION] 06/27/2025, 08:14:01 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "destination": "/library",
+           "currentPath": "/social"
+         }
+
+9. 🔘 [BUTTON] 06/27/2025, 08:14:01 AM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Library Navigation
+   Data: {
+           "destination": "/library",
+           "currentPath": "/social"
+         }
+
+10. ⚡ [ACTION] 06/27/2025, 08:13:59 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+11. ⚡ [ACTION] 06/27/2025, 08:13:59 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+12. 🔘 [BUTTON] 06/27/2025, 08:13:59 AM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+13. ⚡ [ACTION] 06/27/2025, 08:13:59 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+14. ⚡ [ACTION] 06/27/2025, 08:13:59 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+15. 🔘 [BUTTON] 06/27/2025, 08:13:59 AM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+16. ⚡ [ACTION] 06/27/2025, 08:13:44 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+17. ⚡ [ACTION] 06/27/2025, 08:13:44 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+18. 🔘 [BUTTON] 06/27/2025, 08:13:44 AM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+19. ⚡ [ACTION] 06/27/2025, 08:13:43 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+20. ⚡ [ACTION] 06/27/2025, 08:13:43 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+21. 🔘 [BUTTON] 06/27/2025, 08:13:43 AM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+22. ⚡ [ACTION] 06/27/2025, 08:13:39 AM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: Opened profile card from SpeedDial
+
+23. 🔘 [BUTTON] 06/27/2025, 08:13:39 AM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Profile (SpeedDial)
+
+24. ⚡ [ACTION] 06/27/2025, 08:13:37 AM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+25. 🔘 [BUTTON] 06/27/2025, 08:13:37 AM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+26. ⚡ [ACTION] 06/27/2025, 08:13:37 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+27. ⚡ [ACTION] 06/27/2025, 08:13:37 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+28. 🔘 [BUTTON] 06/27/2025, 08:13:37 AM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+29. ⚡ [ACTION] 06/27/2025, 08:13:35 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+30. ⚡ [ACTION] 06/27/2025, 08:13:35 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+31. 🔘 [BUTTON] 06/27/2025, 08:13:35 AM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+32. ⚡ [ACTION] 06/27/2025, 08:13:35 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+33. ⚡ [ACTION] 06/27/2025, 08:13:35 AM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/menu"
+         }
+
+34. 🔘 [BUTTON] 06/27/2025, 08:13:35 AM
+   Page: Menu
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/menu"
+         }
+
+35. ⚡ [ACTION] 06/27/2025, 08:13:29 AM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to Menu
+   Data: {
+           "path": "/menu"
+         }
+
+36. ⚡ [ACTION] 06/27/2025, 08:13:29 AM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to More
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/library"
+         }
+
+37. 🔘 [BUTTON] 06/27/2025, 08:13:29 AM
+   Page: Library
+   Feature: Navigation
+   Action: Button pressed: More Navigation
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/library"
+         }
+
+38. ⚡ [ACTION] 06/27/2025, 08:13:27 AM
+   Page: Library
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "path": "/library"
+         }
+
+39. ⚡ [ACTION] 06/27/2025, 08:13:27 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Library
+   Data: {
+           "destination": "/library",
+           "currentPath": "/social"
+         }
+
+40. 🔘 [BUTTON] 06/27/2025, 08:13:27 AM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Library Navigation
+   Data: {
+           "destination": "/library",
+           "currentPath": "/social"
+         }
+
+41. ⚡ [ACTION] 06/27/2025, 08:13:25 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+42. ⚡ [ACTION] 06/27/2025, 08:13:25 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+43. 🔘 [BUTTON] 06/27/2025, 08:13:25 AM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+44. ⚡ [ACTION] 06/27/2025, 08:13:24 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+45. ⚡ [ACTION] 06/27/2025, 08:13:24 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+46. 🔘 [BUTTON] 06/27/2025, 08:13:24 AM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+47. ⚡ [ACTION] 06/27/2025, 08:13:23 AM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+48. 🔘 [BUTTON] 06/27/2025, 08:13:23 AM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+49. ⚡ [ACTION] 06/27/2025, 08:13:21 AM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+50. 🔘 [BUTTON] 06/27/2025, 08:13:21 AM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+51. ⚡ [ACTION] 06/27/2025, 08:13:16 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
