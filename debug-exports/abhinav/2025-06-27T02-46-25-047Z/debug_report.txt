@@ -1,0 +1,199 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/27/2025, 08:16:25 AM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://edalpha.com/social
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 21
+Button Presses: 5
+Actions: 14
+Errors: 0
+Pages Visited: Social, Learn, Home, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/27/2025, 08:16:12 AM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+2. 📝 [NOTIFICATIONS] 06/27/2025, 08:16:00 AM
+   Page: Social
+   Feature: Native notification sent successfully
+   Action: undefined
+
+3. 📝 [NOTIFICATIONS] 06/27/2025, 08:16:00 AM
+   Page: Social
+   Feature: Showing notification: Funzone - for 14h 54m
+   Action: undefined
+
+4. ⚡ [ACTION] 06/27/2025, 08:15:38 AM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_lock_animation on Social
+
+5. ⚡ [ACTION] 06/27/2025, 08:15:33 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+6. ⚡ [ACTION] 06/27/2025, 08:15:33 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+7. 🔘 [BUTTON] 06/27/2025, 08:15:33 AM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+8. ⚡ [ACTION] 06/27/2025, 08:15:32 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+9. ⚡ [ACTION] 06/27/2025, 08:15:32 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+10. 🔘 [BUTTON] 06/27/2025, 08:15:32 AM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+11. ⚡ [ACTION] 06/27/2025, 08:15:31 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+12. ⚡ [ACTION] 06/27/2025, 08:15:31 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+13. 🔘 [BUTTON] 06/27/2025, 08:15:31 AM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+14. ⚡ [ACTION] 06/27/2025, 08:15:30 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+15. ⚡ [ACTION] 06/27/2025, 08:15:30 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+16. 🔘 [BUTTON] 06/27/2025, 08:15:30 AM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+17. ⚡ [ACTION] 06/27/2025, 08:15:28 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+18. ⚡ [ACTION] 06/27/2025, 08:15:28 AM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+19. 🔘 [BUTTON] 06/27/2025, 08:15:28 AM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+20. ⚡ [ACTION] 06/27/2025, 08:15:24 AM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
+21. ⚡ [ACTION] 06/27/2025, 08:14:19 AM
+   Page: Home
+   Feature: GITHUB_REPO
+   Action: Upload successful
+   Data: {
+           "files": [
+             "debug-exports/abhinav/2025-06-27T02-44-13-680Z/debug_report.json",
+             "debug-exports/abhinav/2025-06-27T02-44-13-680Z/debug_report.txt",
+             "debug-exports/abhinav/2025-06-27T02-44-13-680Z/README.md",
+             "debug-exports/abhinav/user_summary.md"
+           ],
+           "commitUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinav/2025-06-27T02-44-13-680Z",
+           "userUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinav"
+         }
+
