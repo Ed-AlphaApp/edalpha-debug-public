@@ -1,0 +1,43 @@
+{
+  "exportedAt": "2025-06-27T17:01:00.187Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://edalpha.com/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"7\",\"mobile\":\"7204060048\",\"email\":\"abhinav3601@gmail.com\",\"avatar_url\":\"https://raw.githubusercontent.com/Ed-AlphaApp/edalpha-profileavatars/main/public/avatars/59a74b58-a56a-45fa-a303-38d47f44c98e_1751012519732.jpg\",\"grade_id\":\"5ee387e5-f733-4c42-8223-a77ad8eeb2e4\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"abhinav\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-27T12:32:10.908+00:00\"}",
+    "grade": null,
+    "schedule_task_times": "{\"funzone\":\"22:30\"}",
+    "schedule_subject_selections": null,
+    "recent_lessons": "[{\"id\":\"7fdc55a2-4a82-4a70-bb5e-d489fd6f565f\",\"title\":\"Periodic Table\",\"description\":\"Explore the periodic table.\",\"subject_id\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Chemistry\",\"savedAt\":\"2025-06-27T16:49:38.650Z\"},{\"id\":\"1ab2ff24-f3bf-4b39-9318-6f5a8174d5cf\",\"title\":\"Basic Algebra\",\"description\":\"Introduction to algebraic expressions, equations, and problem-solving.\",\"subject_id\":\"a32665cd-55b3-4e34-835e-e571dafb0d38\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjects\":{\"name\":\"Mathematics\"},\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-27T16:42:12.901Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "1751043656434tr9yq7uex",
+      "timestamp": "2025-06-27T17:00:56.434Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 1,
+    "buttonPresses": 0,
+    "actions": 1,
+    "errors": 0,
+    "pages": [
+      "Home"
+    ]
+  }
+}
