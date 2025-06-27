@@ -1,0 +1,54 @@
+{
+  "exportedAt": "2025-06-27T16:22:22.438Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://edalpha.com/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"age\":19,\"grade\":\"6\",\"mobile\":\"7204060048\",\"email\":\"abhinav3601@gmail.com\",\"avatar_url\":\"https://raw.githubusercontent.com/Ed-AlphaApp/edalpha-profileavatars/main/public/avatars/59a74b58-a56a-45fa-a303-38d47f44c98e_1751012519732.jpg\",\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2006-04-01\",\"handle\":\"abhinav\",\"created_at\":\"2025-06-24T08:41:27.110686+00:00\",\"updated_at\":\"2025-06-27T12:32:10.908+00:00\"}",
+    "grade": null,
+    "schedule_task_times": null,
+    "schedule_subject_selections": null,
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1751041339731dl81lbp5b",
+      "timestamp": "2025-06-27T16:22:19.731Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1751041332151ru40zpdya",
+      "timestamp": "2025-06-27T16:22:12.151Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 2,
+    "buttonPresses": 0,
+    "actions": 2,
+    "errors": 0,
+    "pages": [
+      "Home"
+    ]
+  }
+}
