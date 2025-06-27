@@ -1,0 +1,210 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/27/2025, 11:09:07 AM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Screen Resolution: 1366x768
+Viewport Size: 1366x645
+Online Status: Online
+Current URL: http://localhost:8080/social
+Platform: Win32
+Is Android: No
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 22
+Button Presses: 8
+Actions: 14
+Errors: 0
+Pages Visited: Social, Home, Learn
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/27/2025, 11:09:04 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+2. ⚡ [ACTION] 06/27/2025, 11:09:04 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+3. 🔘 [BUTTON] 06/27/2025, 11:09:04 AM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+4. ⚡ [ACTION] 06/27/2025, 11:09:03 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+5. ⚡ [ACTION] 06/27/2025, 11:09:02 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+6. 🔘 [BUTTON] 06/27/2025, 11:09:02 AM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+7. ⚡ [ACTION] 06/27/2025, 11:09:02 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+8. ⚡ [ACTION] 06/27/2025, 11:09:02 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+9. 🔘 [BUTTON] 06/27/2025, 11:09:02 AM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+10. ⚡ [ACTION] 06/27/2025, 11:08:11 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+11. ⚡ [ACTION] 06/27/2025, 11:08:11 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+12. 🔘 [BUTTON] 06/27/2025, 11:08:11 AM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+13. ⚡ [ACTION] 06/27/2025, 11:08:11 AM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+14. ⚡ [ACTION] 06/27/2025, 11:08:11 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+15. 🔘 [BUTTON] 06/27/2025, 11:08:11 AM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+16. ⚡ [ACTION] 06/27/2025, 11:08:08 AM
+   Page: Social
+   Feature: POST_CREATION
+   Action: Created new post with 3 words
+   Data: {
+           "wordCount": 3,
+           "contentLength": 20
+         }
+
+17. 🔘 [BUTTON] 06/27/2025, 11:08:08 AM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Post Creation
+   Data: {
+           "wordCount": 3,
+           "contentLength": 20
+         }
+
+18. ⚡ [ACTION] 06/27/2025, 11:07:59 AM
+   Page: Social
+   Feature: POST_CREATION
+   Action: Opened create post overlay from SpeedDial
+
+19. 🔘 [BUTTON] 06/27/2025, 11:07:59 AM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Create Post (SpeedDial)
+
+20. ⚡ [ACTION] 06/27/2025, 11:07:58 AM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+21. 🔘 [BUTTON] 06/27/2025, 11:07:58 AM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+22. ⚡ [ACTION] 06/27/2025, 11:07:56 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
