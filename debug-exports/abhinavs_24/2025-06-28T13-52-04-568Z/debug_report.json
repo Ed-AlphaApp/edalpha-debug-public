@@ -1,0 +1,365 @@
+{
+  "exportedAt": "2025-06-28T13:52:04.564Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://edalpha.com/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"email\":\"abhinav3601@gmail.com\",\"handle\":\"abhinavs_24\",\"avatar_url\":\"https://raw.githubusercontent.com/Ed-AlphaApp/edalpha-profileavatars/main/public/avatars/59a74b58-a56a-45fa-a303-38d47f44c98e_1751012519732.jpg\",\"mobile\":\"7204060048\",\"age\":19,\"grade_id\":\"5ee387e5-f733-4c42-8223-a77ad8eeb2e4\",\"date_of_birth\":\"2006-04-01\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"13:40\",\"break\":\"14:10\",\"subject2\":\"14:25\",\"test1\":\"14:55\",\"funzone\":\"19:19\"}",
+    "schedule_subject_selections": "{\"subject1\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"subject2\":\"85267b53-4691-427d-8d32-8aaecdeac57c\"}",
+    "recent_lessons": "[{\"id\":\"7fdc55a2-4a82-4a70-bb5e-d489fd6f565f\",\"title\":\"Periodic Table\",\"description\":\"Explore the periodic table.\",\"subject_id\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Chemistry\",\"savedAt\":\"2025-06-28T13:39:17.873Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "1751118564686iuobb9j1r",
+      "timestamp": "2025-06-28T13:49:24.686Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "1751118564685pie77krkq",
+      "timestamp": "2025-06-28T13:49:24.685Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "1751118560490fcdgh26p3",
+      "timestamp": "2025-06-28T13:49:20.490Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "TASK_EDITING",
+      "action": "Started editing task: subject1",
+      "data": {
+        "taskKey": "subject1"
+      }
+    },
+    {
+      "id": "175111856049021e1xqsnh",
+      "timestamp": "2025-06-28T13:49:20.490Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Edit Task",
+      "data": {
+        "taskKey": "subject1"
+      }
+    },
+    {
+      "id": "17511185581925ipb5k87x",
+      "timestamp": "2025-06-28T13:49:18.192Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1751118558192e3f234rud",
+      "timestamp": "2025-06-28T13:49:18.192Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1751118557287ryt77j81o",
+      "timestamp": "2025-06-28T13:49:17.287Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "175111855721949yns9rk7",
+      "timestamp": "2025-06-28T13:49:17.219Z",
+      "page": "Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/video/7fdc55a2-4a82-4a70-bb5e-d489fd6f565f"
+      }
+    },
+    {
+      "id": "1751118557219e6vulz3f5",
+      "timestamp": "2025-06-28T13:49:17.219Z",
+      "page": "Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/video/7fdc55a2-4a82-4a70-bb5e-d489fd6f565f"
+      }
+    },
+    {
+      "id": "1751118554450tazh1nc0i",
+      "timestamp": "2025-06-28T13:49:14.450Z",
+      "page": "Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f",
+      "data": {
+        "path": "/video/7fdc55a2-4a82-4a70-bb5e-d489fd6f565f"
+      }
+    },
+    {
+      "id": "1751118553568zt8n5z2ck",
+      "timestamp": "2025-06-28T13:49:13.568Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1751118553568lwginpg9c",
+      "timestamp": "2025-06-28T13:49:13.568Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1751118550706ck67rko1p",
+      "timestamp": "2025-06-28T13:49:10.706Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_subject1_animation on Home"
+    },
+    {
+      "id": "1751118547235gxe2floy2",
+      "timestamp": "2025-06-28T13:49:07.235Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "175111854721726jt83cus",
+      "timestamp": "2025-06-28T13:49:07.217Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1751118547216gefntwh75",
+      "timestamp": "2025-06-28T13:49:07.216Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1751118546020hfv1mrn1l",
+      "timestamp": "2025-06-28T13:49:06.020Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1751118546005zg14vw6iy",
+      "timestamp": "2025-06-28T13:49:06.005Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1751118546005jq3rktkqj",
+      "timestamp": "2025-06-28T13:49:06.005Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "17511185404216o5ho59j7",
+      "timestamp": "2025-06-28T13:49:00.421Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1751118540405cvyawy6hs",
+      "timestamp": "2025-06-28T13:49:00.405Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751118540405ufc3p0bwp",
+      "timestamp": "2025-06-28T13:49:00.405Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17511185387037lik0jg99",
+      "timestamp": "2025-06-28T13:48:58.703Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1751118535116z78n1reei",
+      "timestamp": "2025-06-28T13:48:55.117Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_lock_animation on Social"
+    },
+    {
+      "id": "1751118532546zp1av9nll",
+      "timestamp": "2025-06-28T13:48:52.546Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1751118532532y8r7y6dwp",
+      "timestamp": "2025-06-28T13:48:52.532Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17511185325324nm267wy0",
+      "timestamp": "2025-06-28T13:48:52.532Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "175111853157865zzovldl",
+      "timestamp": "2025-06-28T13:48:51.578Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "17511185315640xrmlt74y",
+      "timestamp": "2025-06-28T13:48:51.564Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1751118531564orhjdtn5e",
+      "timestamp": "2025-06-28T13:48:51.564Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1751118528747jh60snviz",
+      "timestamp": "2025-06-28T13:48:48.748Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 31,
+    "buttonPresses": 10,
+    "actions": 21,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f",
+      "Learn",
+      "Social",
+      "Account Settings"
+    ]
+  }
+}
