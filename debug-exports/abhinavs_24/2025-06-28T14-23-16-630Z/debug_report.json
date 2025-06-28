@@ -1,0 +1,111 @@
+{
+  "exportedAt": "2025-06-28T14:23:16.627Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://edalpha.com/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"email\":\"abhinav3601@gmail.com\",\"handle\":\"abhinavs_24\",\"avatar_url\":\"https://raw.githubusercontent.com/Ed-AlphaApp/edalpha-profileavatars/main/public/avatars/59a74b58-a56a-45fa-a303-38d47f44c98e_1751012519732.jpg\",\"mobile\":\"7204060048\",\"age\":19,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2006-04-01\",\"grade\":\"6\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"19:25\",\"break\":\"19:26\",\"subject2\":\"19:27\",\"test1\":\"19:28\",\"funzone\":\"19:29\"}",
+    "schedule_subject_selections": "{\"subject1\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"subject2\":\"85267b53-4691-427d-8d32-8aaecdeac57c\"}",
+    "recent_lessons": "[{\"id\":\"1e80258f-1a09-4774-bb86-0b6edaadeca4\",\"title\":\"Basic Algebra\",\"description\":\"Introduction to algebraic expressions, equations, and problem-solving.\",\"subject_id\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-06-28T13:57:34.401Z\"},{\"id\":\"7d2459af-ad47-456d-b7a2-224bee68de6a\",\"title\":\"Introduction and Letters\",\"description\":\"Learn hindi varnamala\",\"subject_id\":\"a64fef6f-83da-4a8e-9800-80f7bba929af\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=BKd-lDaxjSI\",\"subjectName\":\"Hindi\",\"savedAt\":\"2025-06-28T13:57:19.078Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "1751120586125jtpnofany",
+      "timestamp": "2025-06-28T14:23:06.125Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Schedule planning overlay closed"
+    },
+    {
+      "id": "1751120586125mtmfuulyh",
+      "timestamp": "2025-06-28T14:23:06.125Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Close Schedule Overlay"
+    },
+    {
+      "id": "17511205843056yyo80iyo",
+      "timestamp": "2025-06-28T14:23:04.305Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1751120584304rxjmly7sr",
+      "timestamp": "2025-06-28T14:23:04.304Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "17511205823804cf3vvzvh",
+      "timestamp": "2025-06-28T14:23:02.380Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17511205823552e0lsslw2",
+      "timestamp": "2025-06-28T14:23:02.355Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1751120582355yzo1xebe4",
+      "timestamp": "2025-06-28T14:23:02.355Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1751120563943qmwdj8dyk",
+      "timestamp": "2025-06-28T14:22:43.943Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 8,
+    "buttonPresses": 3,
+    "actions": 5,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Account Settings"
+    ]
+  }
+}
