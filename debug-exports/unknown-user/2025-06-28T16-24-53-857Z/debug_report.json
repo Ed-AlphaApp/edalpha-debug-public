@@ -1,0 +1,95 @@
+{
+  "exportedAt": "2025-06-28T16:24:53.852Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "screen": "1280x720",
+    "viewport": "1280x632",
+    "online": true,
+    "url": "http://localhost:8080/social",
+    "referrer": "",
+    "platform": "Win32",
+    "isAndroid": false,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": null,
+    "grade": null,
+    "schedule_task_times": null,
+    "schedule_subject_selections": null,
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1751127892171v70gfl3yq",
+      "timestamp": "2025-06-28T16:24:52.172Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "STORAGE",
+      "action": "Clearing all localStorage and sessionStorage"
+    },
+    {
+      "id": "1751126803276ojjyr5ng2",
+      "timestamp": "2025-06-28T16:06:43.276Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "17511267819070o9wqj5u2",
+      "timestamp": "2025-06-28T16:06:21.907Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1751126781890uqfo0c6ik",
+      "timestamp": "2025-06-28T16:06:21.890Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "17511267818902vxwngre6",
+      "timestamp": "2025-06-28T16:06:21.890Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1751126779665api3nb21u",
+      "timestamp": "2025-06-28T16:06:19.665Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 6,
+    "buttonPresses": 1,
+    "actions": 5,
+    "errors": 0,
+    "pages": [
+      "Social",
+      "Account Settings"
+    ]
+  }
+}
