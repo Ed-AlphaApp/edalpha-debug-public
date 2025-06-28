@@ -1,0 +1,262 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/28/2025, 07:22:04 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://edalpha.com/home
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 31
+Button Presses: 10
+Actions: 21
+Errors: 0
+Pages Visited: Home, Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f, Learn, Social, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/28/2025, 07:19:24 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Schedule planning overlay closed
+
+2. 🔘 [BUTTON] 06/28/2025, 07:19:24 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Close Schedule Overlay
+
+3. ⚡ [ACTION] 06/28/2025, 07:19:20 PM
+   Page: Home
+   Feature: TASK_EDITING
+   Action: Started editing task: subject1
+   Data: {
+           "taskKey": "subject1"
+         }
+
+4. 🔘 [BUTTON] 06/28/2025, 07:19:20 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Edit Task
+   Data: {
+           "taskKey": "subject1"
+         }
+
+5. ⚡ [ACTION] 06/28/2025, 07:19:18 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+6. 🔘 [BUTTON] 06/28/2025, 07:19:18 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+7. ⚡ [ACTION] 06/28/2025, 07:19:17 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+8. ⚡ [ACTION] 06/28/2025, 07:19:17 PM
+   Page: Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/video/7fdc55a2-4a82-4a70-bb5e-d489fd6f565f"
+         }
+
+9. 🔘 [BUTTON] 06/28/2025, 07:19:17 PM
+   Page: Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/video/7fdc55a2-4a82-4a70-bb5e-d489fd6f565f"
+         }
+
+10. ⚡ [ACTION] 06/28/2025, 07:19:14 PM
+   Page: Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f
+   Feature: NAVIGATION
+   Action: Navigated to Video/7fdc55a2 4a82-4a70-Bb5e-D489fd6f565f
+   Data: {
+           "path": "/video/7fdc55a2-4a82-4a70-bb5e-d489fd6f565f"
+         }
+
+11. ⚡ [ACTION] 06/28/2025, 07:19:13 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+12. 🔘 [BUTTON] 06/28/2025, 07:19:13 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+13. ⚡ [ACTION] 06/28/2025, 07:19:10 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing play_subject1_animation on Home
+
+14. ⚡ [ACTION] 06/28/2025, 07:19:07 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+15. ⚡ [ACTION] 06/28/2025, 07:19:07 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+16. 🔘 [BUTTON] 06/28/2025, 07:19:07 PM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/learn"
+         }
+
+17. ⚡ [ACTION] 06/28/2025, 07:19:06 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+18. ⚡ [ACTION] 06/28/2025, 07:19:06 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+19. 🔘 [BUTTON] 06/28/2025, 07:19:06 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+20. ⚡ [ACTION] 06/28/2025, 07:19:00 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+21. ⚡ [ACTION] 06/28/2025, 07:19:00 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+22. 🔘 [BUTTON] 06/28/2025, 07:19:00 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+23. ⚡ [ACTION] 06/28/2025, 07:18:58 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+24. ⚡ [ACTION] 06/28/2025, 07:18:55 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_lock_animation on Social
+
+25. ⚡ [ACTION] 06/28/2025, 07:18:52 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+26. ⚡ [ACTION] 06/28/2025, 07:18:52 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+27. 🔘 [BUTTON] 06/28/2025, 07:18:52 PM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+28. ⚡ [ACTION] 06/28/2025, 07:18:51 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+29. ⚡ [ACTION] 06/28/2025, 07:18:51 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/account-settings"
+         }
+
+30. 🔘 [BUTTON] 06/28/2025, 07:18:51 PM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/account-settings"
+         }
+
+31. ⚡ [ACTION] 06/28/2025, 07:18:48 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
