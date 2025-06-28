@@ -1,0 +1,70 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 06/28/2025, 09:54:53 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Screen Resolution: 1280x720
+Viewport Size: 1280x632
+Online Status: Online
+Current URL: http://localhost:8080/social
+Platform: Win32
+Is Android: No
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 6
+Button Presses: 1
+Actions: 5
+Errors: 0
+Pages Visited: Social, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 06/28/2025, 09:54:52 PM
+   Page: Social
+   Feature: STORAGE
+   Action: Clearing all localStorage and sessionStorage
+
+2. ⚡ [ACTION] 06/28/2025, 09:36:43 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+3. ⚡ [ACTION] 06/28/2025, 09:36:21 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+4. ⚡ [ACTION] 06/28/2025, 09:36:21 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/account-settings"
+         }
+
+5. 🔘 [BUTTON] 06/28/2025, 09:36:21 PM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/account-settings"
+         }
+
+6. ⚡ [ACTION] 06/28/2025, 09:36:19 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
