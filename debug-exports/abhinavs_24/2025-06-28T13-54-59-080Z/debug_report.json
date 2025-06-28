@@ -1,0 +1,223 @@
+{
+  "exportedAt": "2025-06-28T13:54:59.076Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://edalpha.com/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"59a74b58-a56a-45fa-a303-38d47f44c98e\",\"name\":\"Abhinav S\",\"email\":\"abhinav3601@gmail.com\",\"handle\":\"abhinavs_24\",\"avatar_url\":\"https://raw.githubusercontent.com/Ed-AlphaApp/edalpha-profileavatars/main/public/avatars/59a74b58-a56a-45fa-a303-38d47f44c98e_1751012519732.jpg\",\"mobile\":\"7204060048\",\"age\":19,\"grade_id\":\"5ee387e5-f733-4c42-8223-a77ad8eeb2e4\",\"date_of_birth\":\"2006-04-01\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"19:25\",\"break\":\"19:26\",\"subject2\":\"19:27\",\"test1\":\"19:28\",\"funzone\":\"19:29\"}",
+    "schedule_subject_selections": "{\"subject1\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"subject2\":\"85267b53-4691-427d-8d32-8aaecdeac57c\"}",
+    "recent_lessons": "[{\"id\":\"7fdc55a2-4a82-4a70-bb5e-d489fd6f565f\",\"title\":\"Periodic Table\",\"description\":\"Explore the periodic table.\",\"subject_id\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=K0T4KNilbHo\",\"subjectName\":\"Chemistry\",\"savedAt\":\"2025-06-28T13:39:17.873Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "17511188312910p4x7prlg",
+      "timestamp": "2025-06-28T13:53:51.291Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17511188156751ovr79mp9",
+      "timestamp": "2025-06-28T13:53:35.675Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "17511188156573gadr1zu4",
+      "timestamp": "2025-06-28T13:53:35.657Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17511188156561t4fcrafa",
+      "timestamp": "2025-06-28T13:53:35.656Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751118802559ge12w858f",
+      "timestamp": "2025-06-28T13:53:22.559Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1751118802531x46fomx22",
+      "timestamp": "2025-06-28T13:53:22.531Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1751118802531d8c1n6yot",
+      "timestamp": "2025-06-28T13:53:22.531Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1751118802077iilld86tm",
+      "timestamp": "2025-06-28T13:53:22.077Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1751118802056ejx6wldl6",
+      "timestamp": "2025-06-28T13:53:22.056Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751118802055wx0q11j0t",
+      "timestamp": "2025-06-28T13:53:22.055Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751118796992tp5dd3c84",
+      "timestamp": "2025-06-28T13:53:16.992Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing 1min_schedule on Home"
+    },
+    {
+      "id": "1751118792950h0f1fjqwl",
+      "timestamp": "2025-06-28T13:53:12.950Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17511187929356kk8o7xqu",
+      "timestamp": "2025-06-28T13:53:12.935Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "17511187929354h1hmajqq",
+      "timestamp": "2025-06-28T13:53:12.935Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1751118789747ctvy3lbxb",
+      "timestamp": "2025-06-28T13:53:09.747Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    },
+    {
+      "id": "1751118730000r1kbc4362",
+      "timestamp": "2025-06-28T13:52:10.000Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "GITHUB_REPO",
+      "action": "Upload successful",
+      "data": {
+        "files": [
+          "debug-exports/abhinavs_24/2025-06-28T13-52-04-568Z/debug_report.json",
+          "debug-exports/abhinavs_24/2025-06-28T13-52-04-568Z/debug_report.txt",
+          "debug-exports/abhinavs_24/2025-06-28T13-52-04-568Z/README.md",
+          "debug-exports/abhinavs_24/user_summary.md"
+        ],
+        "commitUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinavs_24/2025-06-28T13-52-04-568Z",
+        "userUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinavs_24"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 16,
+    "buttonPresses": 4,
+    "actions": 12,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Social",
+      "Learn",
+      "Account Settings"
+    ]
+  }
+}
