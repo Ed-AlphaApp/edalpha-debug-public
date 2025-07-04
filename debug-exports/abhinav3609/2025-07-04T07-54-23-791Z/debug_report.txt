@@ -1,0 +1,548 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 07/04/2025, 01:24:23 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Screen Resolution: 1366x768
+Viewport Size: 1366x645
+Online Status: Online
+Current URL: http://localhost:8080/home
+Platform: Win32
+Is Android: No
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 100
+Button Presses: 2
+Actions: 4
+Errors: 0
+Pages Visited: Home, Social
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 07/04/2025, 01:24:16 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+2. ⚡ [ACTION] 07/04/2025, 01:24:16 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+3. 🔘 [BUTTON] 07/04/2025, 01:24:16 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+4. ⚡ [ACTION] 07/04/2025, 01:24:07 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+5. ⚡ [ACTION] 07/04/2025, 01:24:07 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+6. 🔘 [BUTTON] 07/04/2025, 01:24:07 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+7. 📝 [NOTIFICATIONS] 07/04/2025, 01:24:00 PM
+   Page: Home
+   Feature: Native notification sent successfully
+   Action: undefined
+
+8. 📝 [NOTIFICATIONS] 07/04/2025, 01:24:00 PM
+   Page: Home
+   Feature: Showing notification: Funzone - now
+   Action: undefined
+
+9. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break animation completed and closed
+   Action: undefined
+
+10. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation dismissed by user
+   Action: undefined
+
+11. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+12. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+13. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+14. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+15. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+16. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+17. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+18. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+19. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+20. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+21. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+22. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+23. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+24. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+25. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+26. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+27. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:23 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+28. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+29. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+30. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+31. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+32. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+33. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+34. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+35. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+36. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+37. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+38. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+39. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+40. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:22 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+41. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+42. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+43. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+44. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+45. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+46. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+47. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+48. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+49. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+50. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+51. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+52. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+53. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+54. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+55. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:21 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+56. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+57. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+58. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+59. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+60. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+61. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+62. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+63. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+64. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+65. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+66. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+67. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+68. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+69. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+70. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:20 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+71. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+72. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+73. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+74. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+75. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+76. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+77. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+78. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+79. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+80. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+81. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+82. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+83. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+84. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:19 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+85. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+86. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+87. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+88. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+89. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+90. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+91. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+92. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+93. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+94. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+95. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+96. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:18 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+97. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:17 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+98. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:17 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+99. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:17 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
+100. 📝 [BREAK_ANIMATION] 07/04/2025, 01:23:17 PM
+   Page: Home
+   Feature: Break time animation started
+   Action: undefined
+
