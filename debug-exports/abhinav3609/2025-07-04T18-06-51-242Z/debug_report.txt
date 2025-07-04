@@ -1,0 +1,152 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 07/04/2025, 11:36:51 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://localhost/home
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 14
+Button Presses: 5
+Actions: 9
+Errors: 0
+Pages Visited: Home, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 07/04/2025, 11:36:47 PM
+   Page: Home
+   Feature: SCHEDULE
+   Action: Schedule saved and updated after confirmation
+   Data: {
+           "taskTimes": {
+             "subject1": "23:38",
+             "break": "23:40",
+             "subject2": "23:42",
+             "test1": "23:44",
+             "funzone": "23:46"
+           }
+         }
+
+2. 🔘 [BUTTON] 07/04/2025, 11:36:47 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Save Schedule Confirmed
+   Data: {
+           "taskTimes": {
+             "subject1": "23:38",
+             "break": "23:40",
+             "subject2": "23:42",
+             "test1": "23:44",
+             "funzone": "23:46"
+           }
+         }
+
+3. ⚡ [ACTION] 07/04/2025, 11:36:46 PM
+   Page: Home
+   Feature: SCHEDULE
+   Action: Save schedule confirmation dialog shown
+   Data: {
+           "taskTimes": {
+             "subject1": "23:38",
+             "break": "23:40",
+             "subject2": "23:42",
+             "test1": "23:44",
+             "funzone": "23:46"
+           }
+         }
+
+4. 🔘 [BUTTON] 07/04/2025, 11:36:46 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Save Schedule (Show Confirmation)
+   Data: {
+           "taskTimes": {
+             "subject1": "23:38",
+             "break": "23:40",
+             "subject2": "23:42",
+             "test1": "23:44",
+             "funzone": "23:46"
+           }
+         }
+
+5. ⚡ [ACTION] 07/04/2025, 11:36:40 PM
+   Page: Home
+   Feature: CHAPTER_SELECTION
+   Action: Reset chapter for subject1 due to subject change
+
+6. ⚡ [ACTION] 07/04/2025, 11:36:40 PM
+   Page: Home
+   Feature: SUBJECT_SELECTION
+   Action: Changed subject1 to subject f5448b93-edd0-4c96-bf92-5b365b30515e
+
+7. ⚡ [ACTION] 07/04/2025, 11:36:39 PM
+   Page: Home
+   Feature: TASK_EDITING
+   Action: Started editing task: subject1
+   Data: {
+           "taskKey": "subject1"
+         }
+
+8. 🔘 [BUTTON] 07/04/2025, 11:36:39 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Edit Task
+   Data: {
+           "taskKey": "subject1"
+         }
+
+9. ⚡ [ACTION] 07/04/2025, 11:36:02 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+10. 🔘 [BUTTON] 07/04/2025, 11:36:02 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+11. ⚡ [ACTION] 07/04/2025, 11:35:59 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/home"
+         }
+
+12. 🔘 [BUTTON] 07/04/2025, 11:35:59 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/home"
+         }
+
+13. ⚡ [ACTION] 07/04/2025, 11:35:59 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+14. ⚡ [ACTION] 07/04/2025, 11:35:52 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
