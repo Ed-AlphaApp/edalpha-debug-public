@@ -1,0 +1,75 @@
+{
+  "exportedAt": "2025-07-04T09:26:23.899Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "393x851",
+    "viewport": "392x776",
+    "online": true,
+    "url": "https://localhost/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"7fa2a375-71f7-43da-813d-743972923a1d\",\"name\":\"Divya  Sree\",\"age\":18,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"konduridivya62@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2007-05-15\",\"handle\":\"konduridivya62\",\"created_at\":\"2025-07-03T09:06:34.339915+00:00\",\"updated_at\":\"2025-07-03T09:05:44.126+00:00\",\"access_enabled\":true}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"14:10\",\"break\":\"14:11\",\"subject2\":\"14:12\",\"test1\":\"14:13\",\"funzone\":\"14:14\"}",
+    "schedule_subject_selections": null,
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1751621180746gexdwbki1",
+      "timestamp": "2025-07-04T09:26:20.746Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751621180745z8sqpxx9b",
+      "timestamp": "2025-07-04T09:26:20.746Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17516211753742ngehtyhy",
+      "timestamp": "2025-07-04T09:26:15.374Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_subject1_animation on Home"
+    },
+    {
+      "id": "1751620894706i2xkb6jlo",
+      "timestamp": "2025-07-04T09:21:34.706Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 4,
+    "buttonPresses": 1,
+    "actions": 3,
+    "errors": 0,
+    "pages": [
+      "Home"
+    ]
+  }
+}
