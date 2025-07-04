@@ -1,0 +1,136 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 07/04/2025, 10:25:40 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://localhost/home
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 12
+Button Presses: 5
+Actions: 7
+Errors: 0
+Pages Visited: Home, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 07/04/2025, 10:22:46 PM
+   Page: Home
+   Feature: SCHEDULE
+   Action: Schedule saved and updated after confirmation
+   Data: {
+           "taskTimes": {
+             "subject1": "22:25",
+             "break": "22:28",
+             "subject2": "22:32",
+             "test1": "22:35",
+             "funzone": "22:40"
+           }
+         }
+
+2. 🔘 [BUTTON] 07/04/2025, 10:22:46 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Save Schedule Confirmed
+   Data: {
+           "taskTimes": {
+             "subject1": "22:25",
+             "break": "22:28",
+             "subject2": "22:32",
+             "test1": "22:35",
+             "funzone": "22:40"
+           }
+         }
+
+3. ⚡ [ACTION] 07/04/2025, 10:22:45 PM
+   Page: Home
+   Feature: SCHEDULE
+   Action: Save schedule confirmation dialog shown
+   Data: {
+           "taskTimes": {
+             "subject1": "22:25",
+             "break": "22:28",
+             "subject2": "22:32",
+             "test1": "22:35",
+             "funzone": "22:40"
+           }
+         }
+
+4. 🔘 [BUTTON] 07/04/2025, 10:22:45 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Save Schedule (Show Confirmation)
+   Data: {
+           "taskTimes": {
+             "subject1": "22:25",
+             "break": "22:28",
+             "subject2": "22:32",
+             "test1": "22:35",
+             "funzone": "22:40"
+           }
+         }
+
+5. ⚡ [ACTION] 07/04/2025, 10:22:14 PM
+   Page: Home
+   Feature: SCHEDULE
+   Action: Task times set to planned sequence
+
+6. 🔘 [BUTTON] 07/04/2025, 10:22:14 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Plan Now
+
+7. ⚡ [ACTION] 07/04/2025, 10:22:06 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+8. 🔘 [BUTTON] 07/04/2025, 10:22:06 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+9. ⚡ [ACTION] 07/04/2025, 10:22:05 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+10. ⚡ [ACTION] 07/04/2025, 10:22:05 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+11. 🔘 [BUTTON] 07/04/2025, 10:22:05 PM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+12. ⚡ [ACTION] 07/04/2025, 10:22:03 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
