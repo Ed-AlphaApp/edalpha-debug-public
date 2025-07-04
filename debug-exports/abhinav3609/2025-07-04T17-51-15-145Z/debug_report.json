@@ -1,0 +1,734 @@
+{
+  "exportedAt": "2025-07-04T17:51:15.134Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3693f5fb-cd46-4d4b-ba53-045c2fa23c6b\",\"name\":\"Abhinow S\",\"age\":4,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2021-07-03\",\"handle\":\"abhinav3609\",\"created_at\":\"2025-07-03T10:03:54.818007+00:00\",\"updated_at\":\"2025-07-03T10:03:36.326+00:00\",\"access_enabled\":true}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"23:20\",\"break\":\"23:21\",\"subject2\":\"23:22\",\"test1\":\"23:23\",\"funzone\":\"23:24\"}",
+    "schedule_subject_selections": "{\"subject1\":\"253a4965-1a88-4867-bdbc-e46745e1cafd\",\"subject2\":\"057d13a7-130c-4801-a673-4154e32df6d1\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1751651461977z3293xjc6",
+      "timestamp": "2025-07-04T17:51:01.977Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "BREAK_ANIMATION",
+      "action": "Break animation completed and closed"
+    },
+    {
+      "id": "1751651461977dmns63fuk",
+      "timestamp": "2025-07-04T17:51:01.977Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation dismissed by user"
+    },
+    {
+      "id": "1751651461970vfpqhfcn9",
+      "timestamp": "2025-07-04T17:51:01.970Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461930guab5hjqw",
+      "timestamp": "2025-07-04T17:51:01.930Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461915ps5c2wcar",
+      "timestamp": "2025-07-04T17:51:01.915Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461893dotmn9pz2",
+      "timestamp": "2025-07-04T17:51:01.893Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514618556scwl6gxd",
+      "timestamp": "2025-07-04T17:51:01.855Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514618361r2tjpy9o",
+      "timestamp": "2025-07-04T17:51:01.836Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514618298ww0x5876",
+      "timestamp": "2025-07-04T17:51:01.829Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461822jnzcjm62a",
+      "timestamp": "2025-07-04T17:51:01.822Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461812vvcy18a75",
+      "timestamp": "2025-07-04T17:51:01.812Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514618078zjc2wao8",
+      "timestamp": "2025-07-04T17:51:01.807Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461794cqfvg3l9s",
+      "timestamp": "2025-07-04T17:51:01.794Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461789o97r1ti8c",
+      "timestamp": "2025-07-04T17:51:01.789Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461785bf6blbdie",
+      "timestamp": "2025-07-04T17:51:01.785Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461773o5kqv6de5",
+      "timestamp": "2025-07-04T17:51:01.773Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461769vvljvbiae",
+      "timestamp": "2025-07-04T17:51:01.769Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461764mrncglyn8",
+      "timestamp": "2025-07-04T17:51:01.764Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461755pgt3vexr4",
+      "timestamp": "2025-07-04T17:51:01.755Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461748vccz4c7n2",
+      "timestamp": "2025-07-04T17:51:01.748Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461736u95zmfxi3",
+      "timestamp": "2025-07-04T17:51:01.737Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461725ueq1uj894",
+      "timestamp": "2025-07-04T17:51:01.725Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461717rpz0jgwi6",
+      "timestamp": "2025-07-04T17:51:01.717Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461711bez6r7340",
+      "timestamp": "2025-07-04T17:51:01.711Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461703ggnzxzvs1",
+      "timestamp": "2025-07-04T17:51:01.703Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175165146169776pmo4wnt",
+      "timestamp": "2025-07-04T17:51:01.697Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461681e3i1f17zr",
+      "timestamp": "2025-07-04T17:51:01.681Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461670tsf9ekkxn",
+      "timestamp": "2025-07-04T17:51:01.670Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514616619w0uh5jqh",
+      "timestamp": "2025-07-04T17:51:01.661Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461657lolonbji6",
+      "timestamp": "2025-07-04T17:51:01.657Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461652je3x02kdd",
+      "timestamp": "2025-07-04T17:51:01.652Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514616461lkcp0xop",
+      "timestamp": "2025-07-04T17:51:01.646Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461641aj3bolq0n",
+      "timestamp": "2025-07-04T17:51:01.641Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461636i9q8wcl5v",
+      "timestamp": "2025-07-04T17:51:01.636Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175165146162925ovjjd9j",
+      "timestamp": "2025-07-04T17:51:01.629Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461624x83h09kom",
+      "timestamp": "2025-07-04T17:51:01.624Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514616110yal2tgit",
+      "timestamp": "2025-07-04T17:51:01.611Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461605uh6hmutpo",
+      "timestamp": "2025-07-04T17:51:01.605Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461592drfnosjkl",
+      "timestamp": "2025-07-04T17:51:01.592Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461584zyh78axg5",
+      "timestamp": "2025-07-04T17:51:01.584Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461575vw7e4nhh9",
+      "timestamp": "2025-07-04T17:51:01.575Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461563copz9ecai",
+      "timestamp": "2025-07-04T17:51:01.563Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461557f6g6qptgp",
+      "timestamp": "2025-07-04T17:51:01.557Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461553hdod4nqnd",
+      "timestamp": "2025-07-04T17:51:01.553Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461545yt9kwqcsi",
+      "timestamp": "2025-07-04T17:51:01.545Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175165146154093hijvsoo",
+      "timestamp": "2025-07-04T17:51:01.540Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461533eo9nd01o1",
+      "timestamp": "2025-07-04T17:51:01.533Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461527fo71ct00b",
+      "timestamp": "2025-07-04T17:51:01.527Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461519w9hqg1n2l",
+      "timestamp": "2025-07-04T17:51:01.519Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461514srgb2hu2r",
+      "timestamp": "2025-07-04T17:51:01.514Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461508duz9kdy4e",
+      "timestamp": "2025-07-04T17:51:01.508Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175165146150282snydjnf",
+      "timestamp": "2025-07-04T17:51:01.502Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461496o6tnuisjm",
+      "timestamp": "2025-07-04T17:51:01.496Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461487wkubgyxv1",
+      "timestamp": "2025-07-04T17:51:01.487Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461477z2vlzetvc",
+      "timestamp": "2025-07-04T17:51:01.477Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461465em21m5hdb",
+      "timestamp": "2025-07-04T17:51:01.465Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461449di2aqtdt9",
+      "timestamp": "2025-07-04T17:51:01.449Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461440c9iwunplc",
+      "timestamp": "2025-07-04T17:51:01.440Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461431ghdsmef2h",
+      "timestamp": "2025-07-04T17:51:01.431Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461418facg1wspe",
+      "timestamp": "2025-07-04T17:51:01.418Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461406bcge5hcmt",
+      "timestamp": "2025-07-04T17:51:01.406Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461399r1ofj68vk",
+      "timestamp": "2025-07-04T17:51:01.399Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514613932ejs5nqk3",
+      "timestamp": "2025-07-04T17:51:01.393Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461385pk2uxfkbj",
+      "timestamp": "2025-07-04T17:51:01.385Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461374mbc04krcu",
+      "timestamp": "2025-07-04T17:51:01.374Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514613667uk9qz052",
+      "timestamp": "2025-07-04T17:51:01.366Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461358y3vk0xcde",
+      "timestamp": "2025-07-04T17:51:01.358Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461350d4l7qjeqy",
+      "timestamp": "2025-07-04T17:51:01.350Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461343o3tg9eutc",
+      "timestamp": "2025-07-04T17:51:01.343Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514613339pdt2jvx1",
+      "timestamp": "2025-07-04T17:51:01.333Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461323bjsmdbdyw",
+      "timestamp": "2025-07-04T17:51:01.323Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461310rf0c8f2ak",
+      "timestamp": "2025-07-04T17:51:01.310Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461296dxbf0j5f2",
+      "timestamp": "2025-07-04T17:51:01.296Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461289ula617c9p",
+      "timestamp": "2025-07-04T17:51:01.289Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461282lrui021i5",
+      "timestamp": "2025-07-04T17:51:01.282Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514612701hompvb6d",
+      "timestamp": "2025-07-04T17:51:01.270Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461262pna3im4a6",
+      "timestamp": "2025-07-04T17:51:01.262Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461247i5111i7c4",
+      "timestamp": "2025-07-04T17:51:01.247Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461242m922zq9vu",
+      "timestamp": "2025-07-04T17:51:01.242Z",
+      "page": "Home",
+      "type": "INFO",
+      "feature": "NOTIFICATIONS",
+      "action": "Native notification sent"
+    },
+    {
+      "id": "1751651461237mzk3gggnt",
+      "timestamp": "2025-07-04T17:51:01.237Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514611923nayctaiz",
+      "timestamp": "2025-07-04T17:51:01.192Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461172b8i83uipc",
+      "timestamp": "2025-07-04T17:51:01.172Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461132ad0vkdi76",
+      "timestamp": "2025-07-04T17:51:01.132Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461104x7z2yy8fd",
+      "timestamp": "2025-07-04T17:51:01.104Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461075vbun8mv0v",
+      "timestamp": "2025-07-04T17:51:01.075Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651461045u0f6nwubv",
+      "timestamp": "2025-07-04T17:51:01.045Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514610245qc8rdo6b",
+      "timestamp": "2025-07-04T17:51:01.024Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "17516514610033nprx2jso",
+      "timestamp": "2025-07-04T17:51:01.003Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460980k0tui37ip",
+      "timestamp": "2025-07-04T17:51:00.980Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460945h5j90ucok",
+      "timestamp": "2025-07-04T17:51:00.945Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460911sro3lzqlc",
+      "timestamp": "2025-07-04T17:51:00.912Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460885g9pppi1ig",
+      "timestamp": "2025-07-04T17:51:00.885Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460860171gcgs0w",
+      "timestamp": "2025-07-04T17:51:00.860Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460837qw53noerv",
+      "timestamp": "2025-07-04T17:51:00.837Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460814m5xwfberz",
+      "timestamp": "2025-07-04T17:51:00.814Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460768d9xqvl3j2",
+      "timestamp": "2025-07-04T17:51:00.768Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460709ib0qphkaw",
+      "timestamp": "2025-07-04T17:51:00.709Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460688jot7ys08k",
+      "timestamp": "2025-07-04T17:51:00.688Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "1751651460671xu98wn0x9",
+      "timestamp": "2025-07-04T17:51:00.671Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    },
+    {
+      "id": "175165146064246k44okal",
+      "timestamp": "2025-07-04T17:51:00.642Z",
+      "page": "Home",
+      "type": "BREAK_ANIMATION",
+      "feature": "Break time animation started"
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 100,
+    "buttonPresses": 0,
+    "actions": 1,
+    "errors": 0,
+    "pages": [
+      "Home"
+    ]
+  }
+}
