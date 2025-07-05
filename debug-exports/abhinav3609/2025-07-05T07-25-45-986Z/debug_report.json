@@ -1,0 +1,188 @@
+{
+  "exportedAt": "2025-07-05T07:25:45.981Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3693f5fb-cd46-4d4b-ba53-045c2fa23c6b\",\"name\":\"Abhinow S\",\"age\":4,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2021-07-03\",\"handle\":\"abhinav3609\",\"created_at\":\"2025-07-03T10:03:54.818007+00:00\",\"updated_at\":\"2025-07-03T10:03:36.326+00:00\",\"access_enabled\":true}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"12:58\",\"break\":\"12:59\",\"subject2\":\"13:00\",\"test1\":\"13:01\",\"funzone\":\"13:02\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"057d13a7-130c-4801-a673-4154e32df6d1\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1751700342078c4fk3jjye",
+      "timestamp": "2025-07-05T07:25:42.078Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Schedule saved and updated after confirmation",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:58",
+          "break": "12:59",
+          "subject2": "13:00",
+          "test1": "13:01",
+          "funzone": "13:02"
+        }
+      }
+    },
+    {
+      "id": "17517003420786pbcz0z66",
+      "timestamp": "2025-07-05T07:25:42.078Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule Confirmed",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:58",
+          "break": "12:59",
+          "subject2": "13:00",
+          "test1": "13:01",
+          "funzone": "13:02"
+        }
+      }
+    },
+    {
+      "id": "1751700341067q7k8c6xvi",
+      "timestamp": "2025-07-05T07:25:41.067Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SCHEDULE",
+      "action": "Save schedule confirmation dialog shown",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:58",
+          "break": "12:59",
+          "subject2": "13:00",
+          "test1": "13:01",
+          "funzone": "13:02"
+        }
+      }
+    },
+    {
+      "id": "1751700341066pzighrhz1",
+      "timestamp": "2025-07-05T07:25:41.066Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Save Schedule (Show Confirmation)",
+      "data": {
+        "taskTimes": {
+          "subject1": "12:58",
+          "break": "12:59",
+          "subject2": "13:00",
+          "test1": "13:01",
+          "funzone": "13:02"
+        }
+      }
+    },
+    {
+      "id": "1751700336963jnnrxlqxw",
+      "timestamp": "2025-07-05T07:25:36.963Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "CHAPTER_SELECTION",
+      "action": "Reset chapter for subject1 due to subject change"
+    },
+    {
+      "id": "17517003369622cpwp2wdl",
+      "timestamp": "2025-07-05T07:25:36.962Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "SUBJECT_SELECTION",
+      "action": "Changed subject1 to subject f5448b93-edd0-4c96-bf92-5b365b30515e"
+    },
+    {
+      "id": "17517003354738635d27bb",
+      "timestamp": "2025-07-05T07:25:35.473Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "TASK_EDITING",
+      "action": "Started editing task: subject1",
+      "data": {
+        "taskKey": "subject1"
+      }
+    },
+    {
+      "id": "1751700335473efez9l6nf",
+      "timestamp": "2025-07-05T07:25:35.473Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Edit Task",
+      "data": {
+        "taskKey": "subject1"
+      }
+    },
+    {
+      "id": "175170030530279520inbv",
+      "timestamp": "2025-07-05T07:25:05.302Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1751700305302b8oqlqlqc",
+      "timestamp": "2025-07-05T07:25:05.302Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1751700124377059bkmege",
+      "timestamp": "2025-07-05T07:22:04.377Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1751700123340f90941uxk",
+      "timestamp": "2025-07-05T07:22:03.340Z",
+      "page": "Video/Dec633e1 C900-404f-B7b2-E51a1b3eab68",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Video/Dec633e1 C900-404f-B7b2-E51a1b3eab68",
+      "data": {
+        "path": "/video/dec633e1-c900-404f-b7b2-e51a1b3eab68"
+      }
+    },
+    {
+      "id": "1751700070356ccazpu3h7",
+      "timestamp": "2025-07-05T07:21:10.356Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 13,
+    "buttonPresses": 4,
+    "actions": 9,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Video/Dec633e1 C900-404f-B7b2-E51a1b3eab68"
+    ]
+  }
+}
