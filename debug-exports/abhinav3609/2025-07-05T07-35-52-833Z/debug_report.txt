@@ -1,0 +1,212 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 07/05/2025, 01:05:52 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://localhost/home
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 6
+Button Presses: 1
+Actions: 4
+Errors: 0
+Pages Visited: Home
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 07/05/2025, 01:05:47 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+2. 🔘 [BUTTON] 07/05/2025, 01:05:47 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+3. ℹ️ [INFO] 07/05/2025, 01:05:41 PM
+   Page: Home
+   Feature: NOTIFICATIONS
+   Action: Notification logs displayed
+   Data: {
+           "androidCount": 31,
+           "appQueueCount": 5,
+           "scheduleTasks": 5,
+           "androidNotifications": [
+             {
+               "id": 19267,
+               "title": "Time to study Subject 1"
+             },
+             {
+               "id": 18255,
+               "title": "Time to study English"
+             },
+             {
+               "id": 22575,
+               "title": "Time to study Mathematics"
+             },
+             {
+               "id": 1082,
+               "title": "Take a break"
+             },
+             {
+               "id": 10976,
+               "title": "Take a break"
+             },
+             {
+               "id": 10814,
+               "title": "Take a break"
+             },
+             {
+               "id": 10938,
+               "title": "Take a break"
+             },
+             {
+               "id": 10718,
+               "title": "Take a break"
+             },
+             {
+               "id": 4202,
+               "title": "Test"
+             },
+             {
+               "id": 4369,
+               "title": "Test"
+             },
+             {
+               "id": 18916,
+               "title": "Time to study English"
+             },
+             {
+               "id": 1879,
+               "title": "Time to study English"
+             },
+             {
+               "id": 10996,
+               "title": "Take a break"
+             },
+             {
+               "id": 19755,
+               "title": "Time to study Subject 1"
+             },
+             {
+               "id": 4240,
+               "title": "Test"
+             },
+             {
+               "id": 19875,
+               "title": "Time to study Subject 1"
+             },
+             {
+               "id": 4681,
+               "title": "Test"
+             },
+             {
+               "id": 19435,
+               "title": "Time to study Subject 1"
+             },
+             {
+               "id": 18688,
+               "title": "Time to study English"
+             },
+             {
+               "id": 7177,
+               "title": "Fun Zone"
+             },
+             {
+               "id": 7994,
+               "title": "Fun Zone"
+             },
+             {
+               "id": 4146,
+               "title": "Test"
+             },
+             {
+               "id": 19173,
+               "title": "Time to study Subject 1"
+             },
+             {
+               "id": 7907,
+               "title": "Fun Zone"
+             },
+             {
+               "id": 7709,
+               "title": "Fun Zone"
+             },
+             {
+               "id": 1840,
+               "title": "Time to study English"
+             },
+             {
+               "id": 22185,
+               "title": "Time to study Mathematics"
+             },
+             {
+               "id": 7304,
+               "title": "Fun Zone"
+             },
+             {
+               "id": 10244,
+               "title": "Take a break"
+             },
+             {
+               "id": 4637,
+               "title": "Test"
+             },
+             {
+               "id": 18868,
+               "title": "Time to study English"
+             }
+           ],
+           "appQueue": [
+             {
+               "id": 22185,
+               "title": "Time to study Mathematics"
+             },
+             {
+               "id": 10718,
+               "title": "Take a break"
+             },
+             {
+               "id": 18255,
+               "title": "Time to study English"
+             },
+             {
+               "id": 4146,
+               "title": "Test"
+             },
+             {
+               "id": 7709,
+               "title": "Fun Zone"
+             }
+           ]
+         }
+
+4. ⚡ [ACTION] 07/05/2025, 01:05:41 PM
+   Page: Home
+   Feature: NOTIFICATIONS
+   Action: Showing notification logs with Android, App, and Toast tags
+
+5. ⚡ [ACTION] 07/05/2025, 01:05:41 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing show_notification_logs on Home
+
+6. ⚡ [ACTION] 07/05/2025, 01:05:31 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
