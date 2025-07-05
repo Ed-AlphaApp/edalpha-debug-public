@@ -1,0 +1,236 @@
+{
+  "exportedAt": "2025-07-05T07:35:52.830Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3693f5fb-cd46-4d4b-ba53-045c2fa23c6b\",\"name\":\"Abhinow S\",\"age\":4,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2021-07-03\",\"handle\":\"abhinav3609\",\"created_at\":\"2025-07-03T10:03:54.818007+00:00\",\"updated_at\":\"2025-07-03T10:03:36.326+00:00\",\"access_enabled\":true}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"12:58\",\"break\":\"12:59\",\"subject2\":\"13:00\",\"test1\":\"13:01\",\"funzone\":\"13:02\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"057d13a7-130c-4801-a673-4154e32df6d1\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1751700947763hm0nf4iq2",
+      "timestamp": "2025-07-05T07:35:47.763Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Bottom sheet opened for dashboard cards"
+    },
+    {
+      "id": "1751700947763m5psvkghs",
+      "timestamp": "2025-07-05T07:35:47.763Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Open Bottom Sheet"
+    },
+    {
+      "id": "1751700941384nzakoftd9",
+      "timestamp": "2025-07-05T07:35:41.384Z",
+      "page": "Home",
+      "type": "INFO",
+      "feature": "NOTIFICATIONS",
+      "action": "Notification logs displayed",
+      "data": {
+        "androidCount": 31,
+        "appQueueCount": 5,
+        "scheduleTasks": 5,
+        "androidNotifications": [
+          {
+            "id": 19267,
+            "title": "Time to study Subject 1"
+          },
+          {
+            "id": 18255,
+            "title": "Time to study English"
+          },
+          {
+            "id": 22575,
+            "title": "Time to study Mathematics"
+          },
+          {
+            "id": 1082,
+            "title": "Take a break"
+          },
+          {
+            "id": 10976,
+            "title": "Take a break"
+          },
+          {
+            "id": 10814,
+            "title": "Take a break"
+          },
+          {
+            "id": 10938,
+            "title": "Take a break"
+          },
+          {
+            "id": 10718,
+            "title": "Take a break"
+          },
+          {
+            "id": 4202,
+            "title": "Test"
+          },
+          {
+            "id": 4369,
+            "title": "Test"
+          },
+          {
+            "id": 18916,
+            "title": "Time to study English"
+          },
+          {
+            "id": 1879,
+            "title": "Time to study English"
+          },
+          {
+            "id": 10996,
+            "title": "Take a break"
+          },
+          {
+            "id": 19755,
+            "title": "Time to study Subject 1"
+          },
+          {
+            "id": 4240,
+            "title": "Test"
+          },
+          {
+            "id": 19875,
+            "title": "Time to study Subject 1"
+          },
+          {
+            "id": 4681,
+            "title": "Test"
+          },
+          {
+            "id": 19435,
+            "title": "Time to study Subject 1"
+          },
+          {
+            "id": 18688,
+            "title": "Time to study English"
+          },
+          {
+            "id": 7177,
+            "title": "Fun Zone"
+          },
+          {
+            "id": 7994,
+            "title": "Fun Zone"
+          },
+          {
+            "id": 4146,
+            "title": "Test"
+          },
+          {
+            "id": 19173,
+            "title": "Time to study Subject 1"
+          },
+          {
+            "id": 7907,
+            "title": "Fun Zone"
+          },
+          {
+            "id": 7709,
+            "title": "Fun Zone"
+          },
+          {
+            "id": 1840,
+            "title": "Time to study English"
+          },
+          {
+            "id": 22185,
+            "title": "Time to study Mathematics"
+          },
+          {
+            "id": 7304,
+            "title": "Fun Zone"
+          },
+          {
+            "id": 10244,
+            "title": "Take a break"
+          },
+          {
+            "id": 4637,
+            "title": "Test"
+          },
+          {
+            "id": 18868,
+            "title": "Time to study English"
+          }
+        ],
+        "appQueue": [
+          {
+            "id": 22185,
+            "title": "Time to study Mathematics"
+          },
+          {
+            "id": 10718,
+            "title": "Take a break"
+          },
+          {
+            "id": 18255,
+            "title": "Time to study English"
+          },
+          {
+            "id": 4146,
+            "title": "Test"
+          },
+          {
+            "id": 7709,
+            "title": "Fun Zone"
+          }
+        ]
+      }
+    },
+    {
+      "id": "17517009413354fi4ciy0n",
+      "timestamp": "2025-07-05T07:35:41.335Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NOTIFICATIONS",
+      "action": "Showing notification logs with Android, App, and Toast tags"
+    },
+    {
+      "id": "1751700941333c75mhcpq8",
+      "timestamp": "2025-07-05T07:35:41.333Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing show_notification_logs on Home"
+    },
+    {
+      "id": "1751700931639i8su2ej5i",
+      "timestamp": "2025-07-05T07:35:31.639Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 6,
+    "buttonPresses": 1,
+    "actions": 4,
+    "errors": 0,
+    "pages": [
+      "Home"
+    ]
+  }
+}
