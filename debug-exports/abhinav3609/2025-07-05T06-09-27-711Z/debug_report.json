@@ -1,0 +1,342 @@
+{
+  "exportedAt": "2025-07-05T06:09:27.702Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3693f5fb-cd46-4d4b-ba53-045c2fa23c6b\",\"name\":\"Abhinow S\",\"age\":4,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2021-07-03\",\"handle\":\"abhinav3609\",\"created_at\":\"2025-07-03T10:03:54.818007+00:00\",\"updated_at\":\"2025-07-03T10:03:36.326+00:00\",\"access_enabled\":true}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"11:40\",\"break\":\"11:41\",\"subject2\":\"11:42\",\"test1\":\"11:43\",\"funzone\":\"11:44\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"057d13a7-130c-4801-a673-4154e32df6d1\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1751695764889prke0onna",
+      "timestamp": "2025-07-05T06:09:24.889Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1751695764864r48fp6y68",
+      "timestamp": "2025-07-05T06:09:24.864Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17516957648631dk9u9pw0",
+      "timestamp": "2025-07-05T06:09:24.863Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17516957644699m3p7jej4",
+      "timestamp": "2025-07-05T06:09:24.469Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1751695764438hyh2dal8c",
+      "timestamp": "2025-07-05T06:09:24.438Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751695764438fwxxujw4o",
+      "timestamp": "2025-07-05T06:09:24.438Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751695759319xxxh9pnd3",
+      "timestamp": "2025-07-05T06:09:19.319Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17516957592931vo39xkoa",
+      "timestamp": "2025-07-05T06:09:19.293Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1751695759292dq9v2twa9",
+      "timestamp": "2025-07-05T06:09:19.292Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1751695758953n0xdfmra6",
+      "timestamp": "2025-07-05T06:09:18.953Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1751695758920d4eiuquo3",
+      "timestamp": "2025-07-05T06:09:18.920Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751695758920rf792br23",
+      "timestamp": "2025-07-05T06:09:18.920Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751695755402666yzsqxc",
+      "timestamp": "2025-07-05T06:09:15.402Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing 1min_schedule on Home"
+    },
+    {
+      "id": "1751695248581ywdg17u29",
+      "timestamp": "2025-07-05T06:00:48.581Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17516952485532radygw88",
+      "timestamp": "2025-07-05T06:00:48.553Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "17516952485525e1m2kh9q",
+      "timestamp": "2025-07-05T06:00:48.552Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1751695247448605nk6zvr",
+      "timestamp": "2025-07-05T06:00:47.448Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1751695247402zgst30t87",
+      "timestamp": "2025-07-05T06:00:47.402Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751695247402xwnbnmjwi",
+      "timestamp": "2025-07-05T06:00:47.402Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751695244729p7w5mwi0k",
+      "timestamp": "2025-07-05T06:00:44.729Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing 1min_schedule on Home"
+    },
+    {
+      "id": "17516952371859cnzi2lct",
+      "timestamp": "2025-07-05T06:00:37.185Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_NOTIFICATIONS",
+      "action": "Clearing notification tracking"
+    },
+    {
+      "id": "17516952371859zo2gnlw6",
+      "timestamp": "2025-07-05T06:00:37.185Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NOTIFICATIONS",
+      "action": "Clearing notification tracking"
+    },
+    {
+      "id": "1751695236987wxwvb10ie",
+      "timestamp": "2025-07-05T06:00:36.987Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_NOTIFICATIONS",
+      "action": "Clearing notification tracking"
+    },
+    {
+      "id": "175169523698674hwubkbh",
+      "timestamp": "2025-07-05T06:00:36.986Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NOTIFICATIONS",
+      "action": "Clearing notification tracking"
+    },
+    {
+      "id": "1751695236716ry7lidiy4",
+      "timestamp": "2025-07-05T06:00:36.716Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_NOTIFICATIONS",
+      "action": "Clearing notification tracking"
+    },
+    {
+      "id": "1751695236715hdkke071f",
+      "timestamp": "2025-07-05T06:00:36.715Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NOTIFICATIONS",
+      "action": "Clearing notification tracking"
+    },
+    {
+      "id": "175169523625381whzf7s1",
+      "timestamp": "2025-07-05T06:00:36.253Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_NOTIFICATIONS",
+      "action": "Clearing notification tracking"
+    },
+    {
+      "id": "1751695236252m0io748yu",
+      "timestamp": "2025-07-05T06:00:36.252Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NOTIFICATIONS",
+      "action": "Clearing notification tracking"
+    },
+    {
+      "id": "1751695235308wdvngjmkt",
+      "timestamp": "2025-07-05T06:00:35.308Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NOTIFICATIONS",
+      "action": "Testing scheduled notification (2 minutes from now)"
+    },
+    {
+      "id": "1751695174339k7up6gydb",
+      "timestamp": "2025-07-05T05:59:34.339Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 30,
+    "buttonPresses": 6,
+    "actions": 24,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Learn"
+    ]
+  }
+}
