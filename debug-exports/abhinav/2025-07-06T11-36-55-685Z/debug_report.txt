@@ -1,0 +1,186 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 07/06/2025, 05:06:55 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Screen Resolution: 1366x768
+Viewport Size: 1366x679
+Online Status: Online
+Current URL: https://ed-alpha-v1-master-git-starterpackv100-edalphaapps-projects.vercel.app/account-settings
+Platform: Win32
+Is Android: No
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 19
+Button Presses: 6
+Actions: 13
+Errors: 0
+Pages Visited: Account Settings, Home, Social
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 07/06/2025, 05:06:38 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
+2. ⚡ [ACTION] 07/06/2025, 05:06:34 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+3. ⚡ [ACTION] 07/06/2025, 05:06:34 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+4. 🔘 [BUTTON] 07/06/2025, 05:06:34 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+5. ⚡ [ACTION] 07/06/2025, 05:06:27 PM
+   Page: Social
+   Feature: POST_CREATION
+   Action: Created new post with 2 words
+   Data: {
+           "wordCount": 2,
+           "contentLength": 8
+         }
+
+6. 🔘 [BUTTON] 07/06/2025, 05:06:27 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Post Creation
+   Data: {
+           "wordCount": 2,
+           "contentLength": 8
+         }
+
+7. ⚡ [ACTION] 07/06/2025, 05:06:17 PM
+   Page: Social
+   Feature: POST_CREATION
+   Action: Opened create post overlay from SpeedDial
+
+8. 🔘 [BUTTON] 07/06/2025, 05:06:17 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Create Post (SpeedDial)
+
+9. ⚡ [ACTION] 07/06/2025, 05:06:15 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+10. 🔘 [BUTTON] 07/06/2025, 05:06:15 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+11. ⚡ [ACTION] 07/06/2025, 05:06:03 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+12. ⚡ [ACTION] 07/06/2025, 05:05:56 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+13. ⚡ [ACTION] 07/06/2025, 05:05:56 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+14. 🔘 [BUTTON] 07/06/2025, 05:05:56 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+15. ⚡ [ACTION] 07/06/2025, 05:05:52 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+16. ⚡ [ACTION] 07/06/2025, 05:05:52 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+17. 🔘 [BUTTON] 07/06/2025, 05:05:52 PM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+18. ⚡ [ACTION] 07/06/2025, 05:05:42 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
+19. ⚡ [ACTION] 07/06/2025, 05:04:18 PM
+   Page: Home
+   Feature: GITHUB_REPO
+   Action: Upload successful
+   Data: {
+           "files": [
+             "debug-exports/abhinav/2025-07-06T11-34-14-369Z/debug_report.json",
+             "debug-exports/abhinav/2025-07-06T11-34-14-369Z/debug_report.txt",
+             "debug-exports/abhinav/2025-07-06T11-34-14-369Z/README.md",
+             "debug-exports/abhinav/user_summary.md"
+           ],
+           "commitUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinav/2025-07-06T11-34-14-369Z",
+           "userUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinav"
+         }
+
