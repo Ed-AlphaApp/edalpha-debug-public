@@ -1,0 +1,34 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 07/06/2025, 05:04:14 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+Screen Resolution: 1366x768
+Viewport Size: 1366x679
+Online Status: Online
+Current URL: https://ed-alpha-v1-master-git-starterpackv100-edalphaapps-projects.vercel.app/home
+Platform: Win32
+Is Android: No
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 1
+Button Presses: 0
+Actions: 1
+Errors: 0
+Pages Visited: Home
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 07/06/2025, 05:03:49 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
