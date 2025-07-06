@@ -1,0 +1,170 @@
+{
+  "exportedAt": "2025-07-06T06:25:37.103Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/social",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3693f5fb-cd46-4d4b-ba53-045c2fa23c6b\",\"name\":\"Abhinav S\",\"email\":\"abhinav3609@gmail.com\",\"handle\":\"abhinav\",\"avatar_url\":null,\"mobile\":\"9008002672\",\"age\":4,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2021-07-03\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"11:55\",\"break\":\"12:25\",\"subject2\":\"12:40\",\"test1\":\"13:10\",\"funzone\":\"11:55\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"057d13a7-130c-4801-a673-4154e32df6d1\"}",
+    "recent_lessons": "[{\"id\":\"1e80258f-1a09-4774-bb86-0b6edaadeca4\",\"title\":\"Basic Algebra\",\"description\":\"Introduction to algebraic expressions, equations, and problem-solving.\",\"subject_id\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"type\":\"chapter\",\"youtube_url\":\"https://www.youtube.com/watch?v=dQw4w9WgXcQ\",\"subjectName\":\"Mathematics\",\"savedAt\":\"2025-07-06T06:24:33.736Z\"}]"
+  },
+  "debugLogs": [
+    {
+      "id": "1751783129215kn4igvheh",
+      "timestamp": "2025-07-06T06:25:29.215Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "175178312731874i62fm4p",
+      "timestamp": "2025-07-06T06:25:27.318Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_lock_animation on Social"
+    },
+    {
+      "id": "1751783124293qbc97s9w1",
+      "timestamp": "2025-07-06T06:25:24.293Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1751783124262vasyawtxx",
+      "timestamp": "2025-07-06T06:25:24.262Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751783124262uwgwjfr70",
+      "timestamp": "2025-07-06T06:25:24.262Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751783120325yrqqq3ufj",
+      "timestamp": "2025-07-06T06:25:20.325Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_funzone_animation on Home"
+    },
+    {
+      "id": "1751783117122y85axvbo9",
+      "timestamp": "2025-07-06T06:25:17.122Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing play_subject1_animation on Home"
+    },
+    {
+      "id": "17517831128732i434bvk2",
+      "timestamp": "2025-07-06T06:25:12.873Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "TAB_SELECTION",
+      "action": "Changed tab from Feed to Social Studies",
+      "data": {
+        "previousTab": "Feed",
+        "newTab": "Social Studies"
+      }
+    },
+    {
+      "id": "1751783112872ij5nhh5iu",
+      "timestamp": "2025-07-06T06:25:12.873Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Home",
+      "action": "Button pressed: Social Studies Tab",
+      "data": {
+        "previousTab": "Feed",
+        "newTab": "Social Studies"
+      }
+    },
+    {
+      "id": "1751783104899f933nd3a1",
+      "timestamp": "2025-07-06T06:25:04.899Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1751783103855raj5arf9t",
+      "timestamp": "2025-07-06T06:25:03.855Z",
+      "page": "Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4",
+      "data": {
+        "path": "/video/1e80258f-1a09-4774-bb86-0b6edaadeca4"
+      }
+    },
+    {
+      "id": "1751783102545a1kwglqo7",
+      "timestamp": "2025-07-06T06:25:02.545Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1751783098684djm1zusm3",
+      "timestamp": "2025-07-06T06:24:58.684Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 13,
+    "buttonPresses": 2,
+    "actions": 11,
+    "errors": 0,
+    "pages": [
+      "Social",
+      "Home",
+      "Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4",
+      "Account Settings"
+    ]
+  }
+}
