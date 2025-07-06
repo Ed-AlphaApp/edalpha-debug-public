@@ -1,0 +1,251 @@
+{
+  "exportedAt": "2025-07-06T11:36:55.680Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "screen": "1366x768",
+    "viewport": "1366x679",
+    "online": true,
+    "url": "https://ed-alpha-v1-master-git-starterpackv100-edalphaapps-projects.vercel.app/account-settings",
+    "referrer": "https://vercel.com/",
+    "platform": "Win32",
+    "isAndroid": false,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3693f5fb-cd46-4d4b-ba53-045c2fa23c6b\",\"name\":\"Abhinav S\",\"age\":4,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2021-07-03\",\"handle\":\"abhinav\",\"created_at\":\"2025-07-03T10:03:54.818007+00:00\",\"updated_at\":\"2025-07-06T06:23:23.46+00:00\",\"access_enabled\":true}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"17:05\",\"break\":\"17:35\",\"subject2\":\"17:50\",\"test1\":\"18:20\",\"funzone\":\"17:06\"}",
+    "schedule_subject_selections": "{\"subject1\":\"057d13a7-130c-4801-a673-4154e32df6d1\",\"subject2\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "17518017981423v0vd97jh",
+      "timestamp": "2025-07-06T11:36:38.142Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    },
+    {
+      "id": "17518017948180tjlfwp9n",
+      "timestamp": "2025-07-06T11:36:34.818Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1751801794782orfm1w0i9",
+      "timestamp": "2025-07-06T11:36:34.782Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1751801794782nsztjkp1s",
+      "timestamp": "2025-07-06T11:36:34.782Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "175180178784023cenag99",
+      "timestamp": "2025-07-06T11:36:27.840Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "POST_CREATION",
+      "action": "Created new post with 2 words",
+      "data": {
+        "wordCount": 2,
+        "contentLength": 8
+      }
+    },
+    {
+      "id": "1751801787840ldy6jj5ex",
+      "timestamp": "2025-07-06T11:36:27.840Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: Post Creation",
+      "data": {
+        "wordCount": 2,
+        "contentLength": 8
+      }
+    },
+    {
+      "id": "175180177763512wl5lgum",
+      "timestamp": "2025-07-06T11:36:17.635Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "POST_CREATION",
+      "action": "Opened create post overlay from SpeedDial"
+    },
+    {
+      "id": "1751801777635y57x7vy47",
+      "timestamp": "2025-07-06T11:36:17.635Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: Create Post (SpeedDial)"
+    },
+    {
+      "id": "1751801775607lwcs5ykfq",
+      "timestamp": "2025-07-06T11:36:15.607Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "17518017756079k2j3vbdd",
+      "timestamp": "2025-07-06T11:36:15.607Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1751801763789v5r3o05x5",
+      "timestamp": "2025-07-06T11:36:03.789Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "1751801756515a2zlbvazj",
+      "timestamp": "2025-07-06T11:35:56.515Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1751801756496pcanqsxqm",
+      "timestamp": "2025-07-06T11:35:56.496Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1751801756495ky9xekewc",
+      "timestamp": "2025-07-06T11:35:56.495Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "175180175213876cimc8p9",
+      "timestamp": "2025-07-06T11:35:52.138Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17518017521106v136s017",
+      "timestamp": "2025-07-06T11:35:52.110Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1751801752110ljyn60wv7",
+      "timestamp": "2025-07-06T11:35:52.110Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1751801742140u2fhumf9x",
+      "timestamp": "2025-07-06T11:35:42.140Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    },
+    {
+      "id": "1751801658929yd4isd1ku",
+      "timestamp": "2025-07-06T11:34:18.929Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "GITHUB_REPO",
+      "action": "Upload successful",
+      "data": {
+        "files": [
+          "debug-exports/abhinav/2025-07-06T11-34-14-369Z/debug_report.json",
+          "debug-exports/abhinav/2025-07-06T11-34-14-369Z/debug_report.txt",
+          "debug-exports/abhinav/2025-07-06T11-34-14-369Z/README.md",
+          "debug-exports/abhinav/user_summary.md"
+        ],
+        "commitUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinav/2025-07-06T11-34-14-369Z",
+        "userUrl": "https://github.com/Ed-AlphaApp/edalpha-debug-public/tree/main/debug-exports/abhinav"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 19,
+    "buttonPresses": 6,
+    "actions": 13,
+    "errors": 0,
+    "pages": [
+      "Account Settings",
+      "Home",
+      "Social"
+    ]
+  }
+}
