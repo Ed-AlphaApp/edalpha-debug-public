@@ -1,0 +1,122 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 07/06/2025, 11:55:37 AM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.115 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://localhost/social
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 13
+Button Presses: 2
+Actions: 11
+Errors: 0
+Pages Visited: Social, Home, Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 07/06/2025, 11:55:29 AM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+2. ⚡ [ACTION] 07/06/2025, 11:55:27 AM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_lock_animation on Social
+
+3. ⚡ [ACTION] 07/06/2025, 11:55:24 AM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+4. ⚡ [ACTION] 07/06/2025, 11:55:24 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+5. 🔘 [BUTTON] 07/06/2025, 11:55:24 AM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+6. ⚡ [ACTION] 07/06/2025, 11:55:20 AM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing play_funzone_animation on Home
+
+7. ⚡ [ACTION] 07/06/2025, 11:55:17 AM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing play_subject1_animation on Home
+
+8. ⚡ [ACTION] 07/06/2025, 11:55:12 AM
+   Page: Home
+   Feature: TAB_SELECTION
+   Action: Changed tab from Feed to Social Studies
+   Data: {
+           "previousTab": "Feed",
+           "newTab": "Social Studies"
+         }
+
+9. 🔘 [BUTTON] 07/06/2025, 11:55:12 AM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Social Studies Tab
+   Data: {
+           "previousTab": "Feed",
+           "newTab": "Social Studies"
+         }
+
+10. ⚡ [ACTION] 07/06/2025, 11:55:04 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+11. ⚡ [ACTION] 07/06/2025, 11:55:03 AM
+   Page: Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4
+   Feature: NAVIGATION
+   Action: Navigated to Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4
+   Data: {
+           "path": "/video/1e80258f-1a09-4774-bb86-0b6edaadeca4"
+         }
+
+12. ⚡ [ACTION] 07/06/2025, 11:55:02 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+13. ⚡ [ACTION] 07/06/2025, 11:54:58 AM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
