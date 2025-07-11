@@ -1,0 +1,466 @@
+{
+  "exportedAt": "2025-07-11T16:36:25.210Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.118 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/social",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3693f5fb-cd46-4d4b-ba53-045c2fa23c6b\",\"name\":\"Abhinav S\",\"age\":4,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2021-07-03\",\"handle\":\"abhinav\",\"created_at\":\"2025-07-03T10:03:54.818007+00:00\",\"updated_at\":\"2025-07-06T06:23:23.46+00:00\",\"access_enabled\":true}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"22:00\",\"break\":\"22:30\",\"subject2\":\"22:45\",\"test1\":\"23:15\",\"funzone\":\"22:03\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"057d13a7-130c-4801-a673-4154e32df6d1\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1752251782558eypedx6xy",
+      "timestamp": "2025-07-11T16:36:22.558Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "17522517825583edlzqtny",
+      "timestamp": "2025-07-11T16:36:22.558Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251661848s4jxqmpwi",
+      "timestamp": "2025-07-11T16:34:21.848Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Opened profile card from SpeedDial"
+    },
+    {
+      "id": "1752251661848cyjfjjb8e",
+      "timestamp": "2025-07-11T16:34:21.848Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: Profile (SpeedDial)"
+    },
+    {
+      "id": "1752251660925uo2j76y0a",
+      "timestamp": "2025-07-11T16:34:20.925Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251660925gp9a26ups",
+      "timestamp": "2025-07-11T16:34:20.925Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "17522516566342mf1lag8s",
+      "timestamp": "2025-07-11T16:34:16.634Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Opened profile card from SpeedDial"
+    },
+    {
+      "id": "1752251656634jb2j4shjw",
+      "timestamp": "2025-07-11T16:34:16.634Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: Profile (SpeedDial)"
+    },
+    {
+      "id": "1752251651052gw1liwqn2",
+      "timestamp": "2025-07-11T16:34:11.052Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251651051bv6yi662e",
+      "timestamp": "2025-07-11T16:34:11.051Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251650094jd2pg3r1b",
+      "timestamp": "2025-07-11T16:34:10.094Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1752251650067l3iw06dnn",
+      "timestamp": "2025-07-11T16:34:10.067Z",
+      "page": "Menu",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "1752251650066tq6m6h3d5",
+      "timestamp": "2025-07-11T16:34:10.066Z",
+      "page": "Menu",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/menu"
+      }
+    },
+    {
+      "id": "1752251649372o3hqeo8rx",
+      "timestamp": "2025-07-11T16:34:09.372Z",
+      "page": "Menu",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Menu",
+      "data": {
+        "path": "/menu"
+      }
+    },
+    {
+      "id": "17522516493489kupz2dad",
+      "timestamp": "2025-07-11T16:34:09.348Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to More",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1752251649347g41i4y0kp",
+      "timestamp": "2025-07-11T16:34:09.347Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: More Navigation",
+      "data": {
+        "destination": "/menu",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17522516418969gsn5jwrw",
+      "timestamp": "2025-07-11T16:34:01.896Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17522516418805p5r48zu5",
+      "timestamp": "2025-07-11T16:34:01.880Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1752251641880rw03ji7m7",
+      "timestamp": "2025-07-11T16:34:01.880Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1752251639532s5v2raqei",
+      "timestamp": "2025-07-11T16:33:59.532Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Opened profile card from SpeedDial"
+    },
+    {
+      "id": "1752251639532v8gxjkt96",
+      "timestamp": "2025-07-11T16:33:59.532Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: Profile (SpeedDial)"
+    },
+    {
+      "id": "1752251638649rspzn6ybx",
+      "timestamp": "2025-07-11T16:33:58.649Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "17522516386499s3o6i0a1",
+      "timestamp": "2025-07-11T16:33:58.649Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251634869sx4umzouj",
+      "timestamp": "2025-07-11T16:33:54.869Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Opened profile card from SpeedDial"
+    },
+    {
+      "id": "1752251634869350gfyood",
+      "timestamp": "2025-07-11T16:33:54.869Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: Profile (SpeedDial)"
+    },
+    {
+      "id": "1752251633423vkib880m1",
+      "timestamp": "2025-07-11T16:33:53.423Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251633423sbbg9dwiy",
+      "timestamp": "2025-07-11T16:33:53.423Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251632690wl3j4lzcn",
+      "timestamp": "2025-07-11T16:33:52.690Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial closed",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1752251632689c3xd3z1d8",
+      "timestamp": "2025-07-11T16:33:52.690Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": true,
+        "nowOpen": false
+      }
+    },
+    {
+      "id": "1752251630678bpn9yb90k",
+      "timestamp": "2025-07-11T16:33:50.678Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251630678i8m0nab4v",
+      "timestamp": "2025-07-11T16:33:50.678Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251616470s94l67rch",
+      "timestamp": "2025-07-11T16:33:36.470Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "Opened profile card from SpeedDial"
+    },
+    {
+      "id": "17522516164690ej8xua26",
+      "timestamp": "2025-07-11T16:33:36.469Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: Profile (SpeedDial)"
+    },
+    {
+      "id": "1752251615232r3yr03vpm",
+      "timestamp": "2025-07-11T16:33:35.232Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "UI_INTERACTION",
+      "action": "SpeedDial opened",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251615232q99j62s2c",
+      "timestamp": "2025-07-11T16:33:35.232Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Social",
+      "action": "Button pressed: SpeedDial Toggle",
+      "data": {
+        "wasOpen": false,
+        "nowOpen": true
+      }
+    },
+    {
+      "id": "1752251601990g57ei8852",
+      "timestamp": "2025-07-11T16:33:21.990Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_unlock_animation on Social"
+    },
+    {
+      "id": "1752251573890yj1kzz21g",
+      "timestamp": "2025-07-11T16:32:53.890Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1752251573871t6u949kbj",
+      "timestamp": "2025-07-11T16:32:53.871Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "175225157387035xhde9kn",
+      "timestamp": "2025-07-11T16:32:53.870Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1752251570820q24f42enf",
+      "timestamp": "2025-07-11T16:32:50.820Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 40,
+    "buttonPresses": 17,
+    "actions": 23,
+    "errors": 0,
+    "pages": [
+      "Social",
+      "Menu",
+      "Home",
+      "Account Settings"
+    ]
+  }
+}
