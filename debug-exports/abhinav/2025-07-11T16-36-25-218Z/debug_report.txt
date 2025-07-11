@@ -1,0 +1,337 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 07/11/2025, 10:06:25 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/137.0.7151.118 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://localhost/social
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 40
+Button Presses: 17
+Actions: 23
+Errors: 0
+Pages Visited: Social, Menu, Home, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 07/11/2025, 10:06:22 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+2. 🔘 [BUTTON] 07/11/2025, 10:06:22 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+3. ⚡ [ACTION] 07/11/2025, 10:04:21 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: Opened profile card from SpeedDial
+
+4. 🔘 [BUTTON] 07/11/2025, 10:04:21 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Profile (SpeedDial)
+
+5. ⚡ [ACTION] 07/11/2025, 10:04:20 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+6. 🔘 [BUTTON] 07/11/2025, 10:04:20 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+7. ⚡ [ACTION] 07/11/2025, 10:04:16 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: Opened profile card from SpeedDial
+
+8. 🔘 [BUTTON] 07/11/2025, 10:04:16 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Profile (SpeedDial)
+
+9. ⚡ [ACTION] 07/11/2025, 10:04:11 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+10. 🔘 [BUTTON] 07/11/2025, 10:04:11 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+11. ⚡ [ACTION] 07/11/2025, 10:04:10 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+12. ⚡ [ACTION] 07/11/2025, 10:04:10 PM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/menu"
+         }
+
+13. 🔘 [BUTTON] 07/11/2025, 10:04:10 PM
+   Page: Menu
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/menu"
+         }
+
+14. ⚡ [ACTION] 07/11/2025, 10:04:09 PM
+   Page: Menu
+   Feature: NAVIGATION
+   Action: Navigated to Menu
+   Data: {
+           "path": "/menu"
+         }
+
+15. ⚡ [ACTION] 07/11/2025, 10:04:09 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to More
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/home"
+         }
+
+16. 🔘 [BUTTON] 07/11/2025, 10:04:09 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: More Navigation
+   Data: {
+           "destination": "/menu",
+           "currentPath": "/home"
+         }
+
+17. ⚡ [ACTION] 07/11/2025, 10:04:01 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+18. ⚡ [ACTION] 07/11/2025, 10:04:01 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+19. 🔘 [BUTTON] 07/11/2025, 10:04:01 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+20. ⚡ [ACTION] 07/11/2025, 10:03:59 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: Opened profile card from SpeedDial
+
+21. 🔘 [BUTTON] 07/11/2025, 10:03:59 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Profile (SpeedDial)
+
+22. ⚡ [ACTION] 07/11/2025, 10:03:58 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+23. 🔘 [BUTTON] 07/11/2025, 10:03:58 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+24. ⚡ [ACTION] 07/11/2025, 10:03:54 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: Opened profile card from SpeedDial
+
+25. 🔘 [BUTTON] 07/11/2025, 10:03:54 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Profile (SpeedDial)
+
+26. ⚡ [ACTION] 07/11/2025, 10:03:53 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+27. 🔘 [BUTTON] 07/11/2025, 10:03:53 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+28. ⚡ [ACTION] 07/11/2025, 10:03:52 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial closed
+   Data: {
+           "wasOpen": true,
+           "nowOpen": false
+         }
+
+29. 🔘 [BUTTON] 07/11/2025, 10:03:52 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": true,
+           "nowOpen": false
+         }
+
+30. ⚡ [ACTION] 07/11/2025, 10:03:50 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+31. 🔘 [BUTTON] 07/11/2025, 10:03:50 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+32. ⚡ [ACTION] 07/11/2025, 10:03:36 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: Opened profile card from SpeedDial
+
+33. 🔘 [BUTTON] 07/11/2025, 10:03:36 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Profile (SpeedDial)
+
+34. ⚡ [ACTION] 07/11/2025, 10:03:35 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+35. 🔘 [BUTTON] 07/11/2025, 10:03:35 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+36. ⚡ [ACTION] 07/11/2025, 10:03:21 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+37. ⚡ [ACTION] 07/11/2025, 10:02:53 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+38. ⚡ [ACTION] 07/11/2025, 10:02:53 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/account-settings"
+         }
+
+39. 🔘 [BUTTON] 07/11/2025, 10:02:53 PM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/account-settings"
+         }
+
+40. ⚡ [ACTION] 07/11/2025, 10:02:50 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
