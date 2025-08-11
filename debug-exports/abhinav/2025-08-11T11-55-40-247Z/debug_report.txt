@@ -1,0 +1,367 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 08/11/2025, 05:25:40 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://localhost/home
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 44
+Button Presses: 14
+Actions: 28
+Errors: 0
+Pages Visited: Home, Video/Dec633e1 C900-404f-B7b2-E51a1b3eab68, Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4, Social, Learn, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 08/11/2025, 05:25:37 PM
+   Page: Home
+   Feature: UI_INTERACTION
+   Action: Bottom sheet opened for dashboard cards
+
+2. 🔘 [BUTTON] 08/11/2025, 05:25:37 PM
+   Page: Home
+   Feature: Home
+   Action: Button pressed: Open Bottom Sheet
+
+3. 📝 [NOTIFICATIONS] 08/11/2025, 05:25:00 PM
+   Page: Home
+   Feature: Native notification sent successfully
+   Action: undefined
+
+4. 📝 [NOTIFICATIONS] 08/11/2025, 05:25:00 PM
+   Page: Home
+   Feature: Showing notification: Time to study Subject 1 - for 30m
+   Action: undefined
+
+5. ⚡ [ACTION] 08/11/2025, 05:24:19 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+6. ⚡ [ACTION] 08/11/2025, 05:24:19 PM
+   Page: Video/Dec633e1 C900-404f-B7b2-E51a1b3eab68
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/video/dec633e1-c900-404f-b7b2-e51a1b3eab68"
+         }
+
+7. 🔘 [BUTTON] 08/11/2025, 05:24:19 PM
+   Page: Video/Dec633e1 C900-404f-B7b2-E51a1b3eab68
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/video/dec633e1-c900-404f-b7b2-e51a1b3eab68"
+         }
+
+8. ⚡ [ACTION] 08/11/2025, 05:24:16 PM
+   Page: Video/Dec633e1 C900-404f-B7b2-E51a1b3eab68
+   Feature: NAVIGATION
+   Action: Navigated to Video/Dec633e1 C900-404f-B7b2-E51a1b3eab68
+   Data: {
+           "path": "/video/dec633e1-c900-404f-b7b2-e51a1b3eab68"
+         }
+
+9. ⚡ [ACTION] 08/11/2025, 05:24:14 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing play_subject2_animation on Home
+
+10. ⚡ [ACTION] 08/11/2025, 05:24:11 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+11. ⚡ [ACTION] 08/11/2025, 05:24:11 PM
+   Page: Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/video/1e80258f-1a09-4774-bb86-0b6edaadeca4"
+         }
+
+12. 🔘 [BUTTON] 08/11/2025, 05:24:11 PM
+   Page: Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/video/1e80258f-1a09-4774-bb86-0b6edaadeca4"
+         }
+
+13. ⚡ [ACTION] 08/11/2025, 05:24:07 PM
+   Page: Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4
+   Feature: NAVIGATION
+   Action: Navigated to Video/1e80258f 1a09-4774-Bb86-0b6edaadeca4
+   Data: {
+           "path": "/video/1e80258f-1a09-4774-bb86-0b6edaadeca4"
+         }
+
+14. ⚡ [ACTION] 08/11/2025, 05:24:03 PM
+   Page: Home
+   Feature: DEBUG_PANEL
+   Action: Executing play_subject1_animation on Home
+
+15. ⚡ [ACTION] 08/11/2025, 05:23:45 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+16. ⚡ [ACTION] 08/11/2025, 05:23:45 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+17. 🔘 [BUTTON] 08/11/2025, 05:23:45 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+18. ⚡ [ACTION] 08/11/2025, 05:23:41 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: Opened profile card from SpeedDial
+
+19. 🔘 [BUTTON] 08/11/2025, 05:23:41 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Profile (SpeedDial)
+
+20. ⚡ [ACTION] 08/11/2025, 05:23:40 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+21. 🔘 [BUTTON] 08/11/2025, 05:23:40 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+22. ⚡ [ACTION] 08/11/2025, 05:23:30 PM
+   Page: Social
+   Feature: POST_CREATION
+   Action: Created new post with 3 words
+   Data: {
+           "wordCount": 3,
+           "contentLength": 16
+         }
+
+23. 🔘 [BUTTON] 08/11/2025, 05:23:30 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Post Creation
+   Data: {
+           "wordCount": 3,
+           "contentLength": 16
+         }
+
+24. ⚡ [ACTION] 08/11/2025, 05:23:22 PM
+   Page: Social
+   Feature: POST_CREATION
+   Action: Opened create post overlay from SpeedDial
+
+25. 🔘 [BUTTON] 08/11/2025, 05:23:22 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: Create Post (SpeedDial)
+
+26. ⚡ [ACTION] 08/11/2025, 05:23:18 PM
+   Page: Social
+   Feature: UI_INTERACTION
+   Action: SpeedDial opened
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+27. 🔘 [BUTTON] 08/11/2025, 05:23:18 PM
+   Page: Social
+   Feature: Social
+   Action: Button pressed: SpeedDial Toggle
+   Data: {
+           "wasOpen": false,
+           "nowOpen": true
+         }
+
+28. ⚡ [ACTION] 08/11/2025, 05:23:13 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+29. ⚡ [ACTION] 08/11/2025, 05:23:13 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+30. 🔘 [BUTTON] 08/11/2025, 05:23:13 PM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+31. ⚡ [ACTION] 08/11/2025, 05:23:12 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+32. ⚡ [ACTION] 08/11/2025, 05:23:12 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+33. 🔘 [BUTTON] 08/11/2025, 05:23:12 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/social"
+         }
+
+34. ⚡ [ACTION] 08/11/2025, 05:23:07 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_unlock_animation on Social
+
+35. ⚡ [ACTION] 08/11/2025, 05:23:03 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+36. ⚡ [ACTION] 08/11/2025, 05:23:03 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+37. 🔘 [BUTTON] 08/11/2025, 05:23:03 PM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+38. ⚡ [ACTION] 08/11/2025, 05:23:03 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+39. ⚡ [ACTION] 08/11/2025, 05:23:03 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+40. 🔘 [BUTTON] 08/11/2025, 05:23:03 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+41. ⚡ [ACTION] 08/11/2025, 05:22:54 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+42. ⚡ [ACTION] 08/11/2025, 05:22:54 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+43. 🔘 [BUTTON] 08/11/2025, 05:22:54 PM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+44. ⚡ [ACTION] 08/11/2025, 05:22:51 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
