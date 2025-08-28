@@ -1,0 +1,255 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 08/28/2025, 04:49:56 PM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.94 Mobile Safari/537.36
+Screen Resolution: 413x919
+Viewport Size: 413x919
+Online Status: Online
+Current URL: https://localhost/home
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 28
+Button Presses: 7
+Actions: 19
+Errors: 0
+Pages Visited: Home, Social, Learn, Account Settings
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 08/28/2025, 04:49:44 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+2. ⚡ [ACTION] 08/28/2025, 04:49:44 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+3. 🔘 [BUTTON] 08/28/2025, 04:49:44 PM
+   Page: Social
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/social"
+         }
+
+4. ⚡ [ACTION] 08/28/2025, 04:49:04 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+5. ⚡ [ACTION] 08/28/2025, 04:49:04 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+6. 🔘 [BUTTON] 08/28/2025, 04:49:04 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+7. 📝 [NOTIFICATIONS] 08/28/2025, 04:49:00 PM
+   Page: Home
+   Feature: Native notification sent successfully
+   Action: undefined
+
+8. ⚡ [ACTION] 08/28/2025, 04:49:00 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+9. 📝 [NOTIFICATIONS] 08/28/2025, 04:49:00 PM
+   Page: Home
+   Feature: Showing notification: Funzone - now
+   Action: undefined
+
+10. ⚡ [ACTION] 08/28/2025, 04:48:58 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+11. ⚡ [ACTION] 08/28/2025, 04:48:58 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+12. 🔘 [BUTTON] 08/28/2025, 04:48:58 PM
+   Page: Learn
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/learn"
+         }
+
+13. ⚡ [ACTION] 08/28/2025, 04:48:57 PM
+   Page: Learn
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "path": "/learn"
+         }
+
+14. ⚡ [ACTION] 08/28/2025, 04:48:57 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Learn
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+15. 🔘 [BUTTON] 08/28/2025, 04:48:57 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Learn Navigation
+   Data: {
+           "destination": "/learn",
+           "currentPath": "/home"
+         }
+
+16. ⚡ [ACTION] 08/28/2025, 04:48:56 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+17. ⚡ [ACTION] 08/28/2025, 04:48:47 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+18. ⚡ [ACTION] 08/28/2025, 04:48:47 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+19. 🔘 [BUTTON] 08/28/2025, 04:48:47 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+20. ⚡ [ACTION] 08/28/2025, 04:48:45 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+21. ⚡ [ACTION] 08/28/2025, 04:48:39 PM
+   Page: Social
+   Feature: DEBUG_PANEL
+   Action: Executing trigger_lock_animation on Social
+
+22. ⚡ [ACTION] 08/28/2025, 04:48:37 PM
+   Page: Social
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "path": "/social"
+         }
+
+23. ⚡ [ACTION] 08/28/2025, 04:48:37 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Social
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+24. 🔘 [BUTTON] 08/28/2025, 04:48:37 PM
+   Page: Home
+   Feature: Navigation
+   Action: Button pressed: Social Navigation
+   Data: {
+           "destination": "/social",
+           "currentPath": "/home"
+         }
+
+25. ⚡ [ACTION] 08/28/2025, 04:48:36 PM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
+26. ⚡ [ACTION] 08/28/2025, 04:48:36 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+27. 🔘 [BUTTON] 08/28/2025, 04:48:36 PM
+   Page: Account Settings
+   Feature: Navigation
+   Action: Button pressed: Home Navigation
+   Data: {
+           "destination": "/home",
+           "currentPath": "/account-settings"
+         }
+
+28. ⚡ [ACTION] 08/28/2025, 04:48:33 PM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
