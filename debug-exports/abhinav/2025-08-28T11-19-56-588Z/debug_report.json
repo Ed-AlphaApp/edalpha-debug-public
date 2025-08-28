@@ -1,0 +1,346 @@
+{
+  "exportedAt": "2025-08-28T11:19:56.582Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A142 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.94 Mobile Safari/537.36",
+    "screen": "413x919",
+    "viewport": "413x919",
+    "online": true,
+    "url": "https://localhost/home",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"3693f5fb-cd46-4d4b-ba53-045c2fa23c6b\",\"name\":\"Abhinav S\",\"age\":4,\"grade\":\"6\",\"mobile\":\"9008002672\",\"email\":\"abhinav3609@gmail.com\",\"avatar_url\":null,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2021-07-03\",\"handle\":\"abhinav\",\"created_at\":\"2025-07-03T10:03:54.818007+00:00\",\"updated_at\":\"2025-07-06T06:23:23.46+00:00\",\"access_enabled\":true}",
+    "grade": null,
+    "schedule_task_times": "{\"funzone\":\"16:49\"}",
+    "schedule_subject_selections": null,
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "1756379984494ilu6qw00c",
+      "timestamp": "2025-08-28T11:19:44.494Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1756379984473br4wgar88",
+      "timestamp": "2025-08-28T11:19:44.473Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1756379984473olh0obp8p",
+      "timestamp": "2025-08-28T11:19:44.473Z",
+      "page": "Social",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/social"
+      }
+    },
+    {
+      "id": "1756379944486aogo5gu4h",
+      "timestamp": "2025-08-28T11:19:04.486Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1756379944465p9d6xkp2i",
+      "timestamp": "2025-08-28T11:19:04.465Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1756379944465k2xnn272t",
+      "timestamp": "2025-08-28T11:19:04.465Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1756379940434bbrcsq2d0",
+      "timestamp": "2025-08-28T11:19:00.434Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Native notification sent successfully"
+    },
+    {
+      "id": "1756379940357rozgccejp",
+      "timestamp": "2025-08-28T11:19:00.357Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1756379940357gbbopl5bb",
+      "timestamp": "2025-08-28T11:19:00.357Z",
+      "page": "Home",
+      "type": "NOTIFICATIONS",
+      "feature": "Showing notification: Funzone - now"
+    },
+    {
+      "id": "1756379938638rsxzrq6rh",
+      "timestamp": "2025-08-28T11:18:58.638Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1756379938617f6efdgnrm",
+      "timestamp": "2025-08-28T11:18:58.617Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1756379938617l8f4f7eik",
+      "timestamp": "2025-08-28T11:18:58.617Z",
+      "page": "Learn",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/learn"
+      }
+    },
+    {
+      "id": "1756379937402kecq3aucm",
+      "timestamp": "2025-08-28T11:18:57.402Z",
+      "page": "Learn",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "path": "/learn"
+      }
+    },
+    {
+      "id": "1756379937368zw4fmi2y3",
+      "timestamp": "2025-08-28T11:18:57.368Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Learn",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1756379937368sawsrqwoc",
+      "timestamp": "2025-08-28T11:18:57.368Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Learn Navigation",
+      "data": {
+        "destination": "/learn",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17563799364739jbo1va58",
+      "timestamp": "2025-08-28T11:18:56.473Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "17563799274086v8cvdcec",
+      "timestamp": "2025-08-28T11:18:47.408Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "1756379927383oldckz7qc",
+      "timestamp": "2025-08-28T11:18:47.383Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "17563799273836w7zyd7oh",
+      "timestamp": "2025-08-28T11:18:47.383Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1756379925695khx4fvcj1",
+      "timestamp": "2025-08-28T11:18:45.695Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1756379919903npda09l8w",
+      "timestamp": "2025-08-28T11:18:39.903Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "DEBUG_PANEL",
+      "action": "Executing trigger_lock_animation on Social"
+    },
+    {
+      "id": "17563799173024tdmyew5j",
+      "timestamp": "2025-08-28T11:18:37.302Z",
+      "page": "Social",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "path": "/social"
+      }
+    },
+    {
+      "id": "175637991727856s15j5ba",
+      "timestamp": "2025-08-28T11:18:37.278Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Social",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1756379917278x6fphlgrt",
+      "timestamp": "2025-08-28T11:18:37.278Z",
+      "page": "Home",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Social Navigation",
+      "data": {
+        "destination": "/social",
+        "currentPath": "/home"
+      }
+    },
+    {
+      "id": "1756379916535e4dnfurr6",
+      "timestamp": "2025-08-28T11:18:36.535Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    },
+    {
+      "id": "1756379916511ye198a6gb",
+      "timestamp": "2025-08-28T11:18:36.511Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1756379916511cyd0h8rjb",
+      "timestamp": "2025-08-28T11:18:36.511Z",
+      "page": "Account Settings",
+      "type": "BUTTON",
+      "feature": "Navigation",
+      "action": "Button pressed: Home Navigation",
+      "data": {
+        "destination": "/home",
+        "currentPath": "/account-settings"
+      }
+    },
+    {
+      "id": "1756379913568dzknlgwu8",
+      "timestamp": "2025-08-28T11:18:33.568Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 28,
+    "buttonPresses": 7,
+    "actions": 19,
+    "errors": 0,
+    "pages": [
+      "Home",
+      "Social",
+      "Learn",
+      "Account Settings"
+    ]
+  }
+}
