@@ -1,0 +1,55 @@
+{
+  "exportedAt": "2025-09-08T06:29:54.641Z",
+  "sessionInfo": {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-A256E Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.158 Mobile Safari/537.36",
+    "screen": "412x892",
+    "viewport": "411x891",
+    "online": true,
+    "url": "https://localhost/account-settings",
+    "referrer": "",
+    "platform": "Linux aarch64",
+    "isAndroid": true,
+    "isCapacitor": true
+  },
+  "appState": {
+    "profile": "{\"id\":\"cd762bc5-b259-4494-8cec-5d707753ed1b\",\"name\":\"Nived  Shaji\",\"email\":\"nivedshaji2006@gmail.com\",\"handle\":\"nivet2006\",\"avatar_url\":\"https://raw.githubusercontent.com/Ed-AlphaApp/edalpha-profileavatars/main/public/avatars/cd762bc5-b259-4494-8cec-5d707753ed1b_1752251553272.png\",\"mobile\":\"8431579309\",\"age\":19,\"grade_id\":\"3b455a57-b539-430b-b09c-57210bc81b15\",\"date_of_birth\":\"2006-02-04\"}",
+    "grade": null,
+    "schedule_task_times": "{\"subject1\":\"22:00\",\"break\":\"22:30\",\"subject2\":\"22:45\",\"test1\":\"23:15\",\"funzone\":\"22:03\"}",
+    "schedule_subject_selections": "{\"subject1\":\"f5448b93-edd0-4c96-bf92-5b365b30515e\",\"subject2\":\"057d13a7-130c-4801-a673-4154e32df6d1\"}",
+    "recent_lessons": null
+  },
+  "debugLogs": [
+    {
+      "id": "175731298465109zcrphg8",
+      "timestamp": "2025-09-08T06:29:44.651Z",
+      "page": "Account Settings",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Account Settings",
+      "data": {
+        "path": "/account-settings"
+      }
+    },
+    {
+      "id": "1757312977183xp2fz6vdj",
+      "timestamp": "2025-09-08T06:29:37.183Z",
+      "page": "Home",
+      "type": "ACTION",
+      "feature": "NAVIGATION",
+      "action": "Navigated to Home",
+      "data": {
+        "path": "/home"
+      }
+    }
+  ],
+  "logSummary": {
+    "totalLogs": 2,
+    "buttonPresses": 0,
+    "actions": 2,
+    "errors": 0,
+    "pages": [
+      "Account Settings",
+      "Home"
+    ]
+  }
+}
