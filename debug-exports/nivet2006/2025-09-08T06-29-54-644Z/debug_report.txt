@@ -1,0 +1,42 @@
+===============================================
+           EDALPHA DEBUG EXPORT (TXT)
+===============================================
+
+Export Date: 09/08/2025, 11:59:54 AM
+
+--- SESSION INFORMATION ---
+User Agent: Mozilla/5.0 (Linux; Android 15; SM-A256E Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.158 Mobile Safari/537.36
+Screen Resolution: 412x892
+Viewport Size: 411x891
+Online Status: Online
+Current URL: https://localhost/account-settings
+Platform: Linux aarch64
+Is Android: Yes
+Is Capacitor: Yes
+
+--- LOG SUMMARY ---
+Total Logs: 2
+Button Presses: 0
+Actions: 2
+Errors: 0
+Pages Visited: Account Settings, Home
+
+--- DETAILED DEBUG LOGS ---
+(Newest first)
+
+1. ⚡ [ACTION] 09/08/2025, 11:59:44 AM
+   Page: Account Settings
+   Feature: NAVIGATION
+   Action: Navigated to Account Settings
+   Data: {
+           "path": "/account-settings"
+         }
+
+2. ⚡ [ACTION] 09/08/2025, 11:59:37 AM
+   Page: Home
+   Feature: NAVIGATION
+   Action: Navigated to Home
+   Data: {
+           "path": "/home"
+         }
+
